@@ -1,0 +1,9 @@
+Welcome to my debug page. 
+
+'''This is bold text wow how amazing'''
+
+This line should be inserted via code magic
+
+And this too
+
+Test for 2025-03-29
