@@ -1,0 +1,330 @@
+<!-- 
+=== WARNING ===
+
+Editing this page on the wiki will get overwritten by the next autowiki update from the internal git.
+Please edit on there.
+
+=== WARNING ===   
+-->
+==Searches==
+
+1.  On Green Alert, a search requires probable cause OR approval from the Magistrate, HoS or Captain. Probable Cause is defined as any circumstance that creates reasonable suspicion that a crime was committed (eg, direct accusation from a crewmember, witnessing the crime directly, prints on a crime scene, presence in a restricted area with high value items, etc). Approval simply requires permission from the relevant person - verbal or over radio is enough;
+
+2.  On Green Alert, searches should be conducted without cuffs, and the searchee must hand over requested items;
+
+3.  Searchees who refuse may be cuffed for the search;
+
+4.  Any other item in the searchee's possession may be asked for, including but not limited to bags, belts, jackets, headsets, and PDAs;
+
+5.  On Blue Alert and above, a search can be done without probable cause. This can be done by cuffing the searchee, and forcibly removing their bags and emptying their pockets;
+
+6.  Refusing a legal search is considered resisting arrest;
+
+7.  Security may only perform surgery to search for illegal implants if the searchee is a confirmed EoC or has been confirmed to have stolen an item that can no longer be located. In addition, if there is reasonable suspicion of illegal implant possession, the HoS/Captain/Magistrate can issue a warrant for an implant search if they deem it necessary;
+
+8.  Recommended but optional: After searching someone, their security status should be set to RELEASED, and add a note that they were searched but nothing was found. This helps prevent security wasting time by repeatedly re-searching the same person, and makes it easier to tell who has not yet been searched.
+
+==Punishments==
+
+These are the procedures for standard punishments, and should be followed unless an emergency makes them unable to be followed.
+
+===Brigging===
+1.  No prisoner is to be held for longer than ten (10) minutes in Processing if no evidence against them is readily available. Should the ten (10) minutes expire without any evidence of any crimes coming to light, the prisoner is to be released. Otherwise, proceed with the following guidelines.
+
+2.  '''Brigging - Station Facilities''' procedures applies to all situations. Optionally for those with sentences over 15 minutes, the procedures in the '''Brigging - Labor Camp''' section may be used. 
+
+====Brigging - Station Facilities====
+
+1.  The prisoner is to be cuffed, and brought to their cell.
+
+2.  The prisoner is to be stripped of all belongings, save for their uniform, headset, ID, PDA and shoes. Vox are to retain their internals, plasmamen are to retain internals and their suit.
+
+3.  The timer for the cell is to be set, and the charges declared.
+
+4.  The prisoner is then to be uncuffed. If they are a violent risk, they may be bucklecuffed, flashed and then have their cuffs removed.
+
+5.  Prisoners attempting to break the lights in the cell are to be flashed.
+
+6.  Prisoners attempting to break the windows of the cell are to be flashed and their timers reset.
+
+7.  Removal of the prisoner's headset may ONLY occur if the prisoner is using the headset to constantly flood any communication channel with irrelevant/inane information and/or calls of "Shitcurity", or if the prisoner is seriously attempting to incite violent action against Security and/or Command via continuous calls for violence.
+
+====Brigging - Labor Camp====
+
+The labor camp is designed to hold up to four temporary prisoners at a time. While this does not restrict the amount of prisoners who can be placed in the facility, officers should note that there may be a lack of equipment and storage facilities to accomodate this.
+
+1.  The prisoner is to be issued a temporary prisoner ID, it is to be inserted into a ''labor camp points manager'' console, and a point quota be set. 1 minute of prison time is roughly equivalent to 150 points. Sentences should not exceed 5000 points. Only the Head of Security, Captain, or Magistrate can authorise a sentence greater than 5000 points.
+
+2.  The prisoner is to be secured in the holding area of the labor shuttle, and the shuttle piloted to the labor camp.
+
+3.  The prisoner is to be assigned a locker for their belongings. They are to be stripped of all belongings, save for their prisoner ID, uniform, headset, PDA and shoes. Vox are to retain their internals, plasmamen are to retain internals and their suit. Once a prisoner's belongings are in the locker, it can be locked with the prisoner's temporary ID. The locker will automatically remain closed until the prisoner has completed their assigned point quota.
+
+4.  The officer is to release the prisoner into the labor camp, and move the shuttle back to the station.
+
+5.  Once the prisoner has completed their point quota, they will be able to access their belongings. They will also have the ability to call the shuttle and return it to the station. Their temporary prisoner ID must be returned to security personnel.
+
+6.  Should the labor shuttle dock be contained in a secure area, the prisoner must be escorted out of security. If the prisoner is escorted out in a compliant manner, they are not to be charged with tresspass, breaking and entering, or major tresspass in relation to their release.
+
+7.  The prisoner's security status must be set to ''released'' if the system fails to do so automatically.
+
+===Permabrigging===
+
+1.  '''Permabrigging - Station Facilities''' and '''Permabrigging - Labor Camp''' procedures apply to all situations. 
+
+====Permabrigging - Station Facilities====
+
+1.  Prisoner must be cuffed, and their ID must be terminated.
+
+2.  Prisoner must be stripped of all belongings. Said belongings must be placed in one of the prisoner gear lockers, and the prisoner equipped with standard prisoner uniform and headset;
+
+3.  Prisoner must be clothed in a Prison Uniform and Orange Shoes. Prisoner must then be given a Prisoner ID.
+
+4.  Prisoner must be brought to the Permabrig area, and the doors behind closed properly.
+
+5.  Prisoner must be bucklecuffed to one of the beds.
+
+6.  Prisoner must have his cuffs removed, then be flashed or stunned, and the cuffs recovered.
+
+7.  All Security agents must then leave the Permabrig.
+
+8.  In the case of an attempted escape or riot, the Nitrous Oxide control may be used.
+
+====Permabrigging - Labor Camp====
+
+1.  Sections 1, 2, and 3 from '''Permabrigging - Station''' apply. Point quotas should never be issued to permanent prisoners.
+
+2.  The prisoner is to be secured in the holding area of the labor shuttle, and the shuttle piloted to the labor camp.
+
+3.  The officer is to safely release the prisoner into the labor camp, and move the shuttle back to the station.
+
+===Execution: General ===
+
+1.	Prisoner's security status must be set to "*Execute*", and their relevant crimes entered into their sec record. If they are crew but do not have a sec record, create a record in their name then set it as before. If they are not crew, this step can be skipped.
+
+2.	Prisoner must be cuffed, and their ID must be terminated.
+
+3.	Prisoner must be stripped of all belongings. Said belongings must be placed in one of the prisoner gear lockers, and the prisoner equipped with standard prisoner uniform and headset.
+
+4.	Prisoner must be clothed in a Prison Uniform and Orange Shoes.
+
+5.  Prisoner must be allowed their final words.
+
+6.  A Chaplain may be present if requested, and allowed by the HoS.
+
+7.  It is advised, but not required, to have medical personnel in attendance to verify death.
+
+8.  Authorization must be given by the Magistrate. If a Magistrate is not assigned, dead, missing, or otherwise rendered incapable of providing authorization, the Captain may authorize an execution in their stead. Should the Magistrate and Captain be unable to provide authorization, it must come from Central Command. Without authorization, executions are murder.
+
+9.  Though not obligatory, it is recommended that all executed prisoners be considered for borgification post-execution.
+
+10.  Kill on sight orders are classified as executions, however due to the often chaotic situations in which these occur, security records must be updated (per point 1) within a reasonable amount of time after the order is given or carried out.
+
+11. If medical personnel have been assigned to security, best effort should be made to inform them of any performed execution so that medical records of the prisoner may be updated.
+
+===Execution: Electric Chair===
+
+1.	Prisoner must be bucklecuffed to the electric chair in the Execution room.
+
+2.	Prisoner must be allowed their final words, after which the chair will be activated.
+
+3.  Prisoner's pulse is to be checked to confirm death.
+
+4.	Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
+
+===Execution: Lethal Injection===
+
+1.	Prisoner must be bucklecuffed to the electric chair or bed in the Execution room.
+
+2.	Prisoner must be allowed their final words, after which the injection will be applied.
+
+3.  Prisoner's pulse is to be checked to confirm death.
+
+4.	Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
+
+===Execution: Firing Squad===
+
+1.	Prisoner must be brought to either the Firing Range or the Execution room.
+
+2.	Prisoner must be bucklecuffed to a chair.
+
+3.	Prisoner must be allowed their final words, after which authorised security personnel are to open fire with any of the following: Energy Gun, Advanced Energy Gun, Laser Gun, Revolver, Shotgun, or any ranged weapon manufactured by Research.
+
+4.  Prisoner's pulse is to be checked to confirm death.
+
+5.	Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
+
+===Execution: Gas Inhalation===
+
+1.  Prisoner must be bucklecuffed to the electric chair in the Execution room.
+
+2.  Toxic gas must be attached to toxic gas input, or alternatively a canister placed in the room.
+
+3.  Prisoner must be allowed their final words, after which gas must be released into the room occupied by the Prisoner.
+
+4.  After sufficient time has passed, blast doors are to be opened to vent toxic gas into space. They are then to be closed to re-pressurise the room.
+
+5.  Prisoner's pulse is to be checked, final round via ballistic or energy weapon to the cranium is advised if the prisoner is not terminated.
+
+6.  Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
+
+===Execution: Asphyxiation===
+
+1.  Prisoner must be bucklecuffed to the electric chair in the Execution room.
+
+2.  Prisoner must be allowed their final words, after which blast doors are to be opened. Make sure the air vent is off.
+
+3.  Blast doors are to be closed, and vent activated. After sufficient time has passed, blast doors are to be closed to re-pressurise the room.
+
+4.  Prisoner's pulse is to be checked, final round via ballistic or energy weapon to the cranium is advised if the prisoner is not terminated.
+
+5.  Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
+
+==Parole==
+
+Eligibility for parole:
+* '''''If someone is an EOC, OR has committed a capital crime, then parole is only allowed if authorized by the Magistrate or Captain.''''' They should not authorize this unless it is a serious emergency and the parolee is expected to help deal with the emergency. For example, a non-violent syndicate engineer may be paroled to help fight a blob.
+* For all other prisoners, Magi/Captain/HoS/Warden may authorize parole at their discretion. They are advised to consider how severe the prisoner's crimes are, how co-operative they have been with security, and whether or not they are expected to commit any further crimes.
+
+Process for paroling a prisoner:
+* '''''Parolee must be given a tracking implant''''', set to "parole" status in sec records, and informed that they are on parole (along with the charge), before they are released on parole.
+* Parolees who are EOC or who committed a capital crime, must additionally be stripped of all belongings prior to release. They may be issued a new basic jumpsuit, shoes, radio, and civilian-access ID.
+* After release, parolee is to be kept under supervision, and watched for any sign of further criminal acts. This can be done by co-workers, and/or security.
+
+If the parolee commits a crime while on parole:
+* If the new crime is a capital crime, or they are an EOC, they are to be immediately executed on capture.
+* Otherwise, for any lesser crime, they're to be re-sentenced for BOTH the original crime they were paroled for, AND the new crime, with times stacking. They're also disqualified from any further parole for the rest of the shift.
+
+==Mindshield Implants==
+
+Mindshield Implants are specialized, NanoTrasen-brand implants that protect whoever they are installed into from brainwashing techniques commonly associated with both the Syndicate and the Cult of Nar-Sie. For this reason, all members of Security, in addition to the Captain, NanoTrasen Representative and Blueshield, are issued Mindshield Implants by default, as a security measure.
+
+If any crew member is hired or promoted (even if only temporarily) to one of the following positions they are to receive a Mindshield Implant per NanoTrasen policy:
+* All Security Department positions
+* [[Captain]] OR Acting Captain
+* [[Blueshield]]
+* [[NanoTrasen Representative]]
+* [[Internal_Affairs_Agent|Internal Affairs Agent]]
+
+While procedures for a Revolution are already detailed in General Standard Operating Procedure, it is important to note other situations in which Mindshield Implantation may be used. All personnel that are successfully deconverted from the Cult of Nar-Sie's influence may be given a Mindshield Implant at the discretion of the Head of Security. This is not advised if the deconverted person does not wish to receive the implant.
+
+Lastly, personnel that have been Mindslaved should be offered a Mindshield Implant in order to prevent further brainwashing.
+
+==Evidence Storage Procedures==
+
+''Physical evidence is defined as any object that can be used to prove that a particular person has committed a crime.''
+
+1. All evidence confiscated from arrested personnel is to be properly analyzed, then stored in Evidence Storage, either in the lockers in the Forensics Lab, or in the Evidence Storage Room in the Prison Wing;
+
+2. Stored evidence is not be removed from Evidence Storage unless it is required for a trial;
+
+3. As per 206 - "Abuse of Confiscated Equipment", stored evidence is not to be used, In the case of stored contraband this is superceded by a 306 - "Possession of Contraband" charge.
+
+=[[File:Ia_consultant.png|32px]][[Internal Affairs]]=
+
+1. Internal Affairs Agents are only to provide legal representation for personnel facing a Capital Sentence. They should, however, ensure that their timed sentence is applied correctly, and alert Security if it is not. In addition, Internal Affairs Agents are permitted to provide legal advice for Security and prisoners, as well as investigating whether or not arrests were done properly;
+
+2. Internal Affairs Agents must request permission from any potential client before serving as their legal representative, as said client may choose to either represent themselves, or request someone else;
+
+3. Internal Affairs Agents are not to deliberately halt or slow down prisoner processing or ongoing investigations. If Security is acting in a demonstrably incompetent manner, contacting the Head of Security or the Captain is highly recommended. If more information about the crime in question is needed, Agents should wait until the person in question was brigged;
+
+4. Internal Affairs Agents are permitted to carry their flash.
+
+5. Internal Affairs Agents are to ensure that Standard Operating Procedure is being properly followed, when applicable, and to contact the relevant Head of Staff when it is not;
+
+6. Internal Affairs Agents are to attempt to resolve all Standard Operating Procedure issues locally before contacting Central Command. This should be done in tandem with Command and, if possible, personnel in the relevant Department. If a valid report is ignored by the relevant Head of Staff, the Captain is to be contacted. If the Captain ignores the report, then Central Command and/or the NanoTrasen Representative must be contacted.
+
+==[[File:Magistrate.png|32px]][[Magistrate]]==
+
+1. Magistrates are to ensure that Space Law is applied correctly. If it is not, they are to make it so;
+
+2. Magistrates have the final say on whether or not Trials take place, and should ensure they should only occur for Capital Sentences. Similarly, Magistrates are to ensure that Trials do not happen for Defendants that are self-evidently guilty;
+
+3. Magistrates can overrule anyone in all matters concerning Space Law. This does not extend to Emergency Response Teams, Central Command Officials or direct Central Command communications;
+
+4. The Magistrate is permitted to carry their flash and a telescopic baton.
+
+5. Magistrates are not above Space Law. Similarly, they cannot overrule Security on a sentence imposed against themselves. If a Magistrate attempts to do this, contact Central Command immediately;
+
+6. In the absence of Internal Affairs Agents or a Nanotrasen Representative, the Magistrate may elect to handle matters of Standard Operating Procedure. Otherwise, they are only to ensure that the Internal Affairs Agents under their command are handling such matters; 
+
+7. Magistrates may not impede the expedient functioning of Security for the sake of micromanaging every aspect it. They should only concern themselves with crimes that either have fuzzy evidence, or require careful deliberation of circumstances;
+
+8. Magistrates are to contact Central Command immediately if their decisions are being ignored, provided said decision actually match up with Space Law and Standard Operating Procedure. Please see [[Guide to Faxes|this guide]] for more information on how to write a good fax.
+
+==Internal Affairs Range of Action==
+
+NanoTrasen provides job openings for Internal Affairs Agents precisely to ensure that the crew can be given legal representation in cases where Capital Sentences may not be fully justified. These openings are also there to allow for said Agents to ensure that Standard Operating Procedure and Space Law are being followed correctly, and to attempt to amend infringements on the field.
+
+That said, however, the access given to Internal Affairs Agents is a privilege, not a right. An Internal Affairs Agent may be, and should be, ejected from the Brig if they are actively impeding Security from doing their job in an effective and expedient manner. Remember, Internal Affairs Agents do not have any authority to demand anything. If they are acting against the best interests of the station and its safety, they may be ignored.
+
+As such, actions such as the following should be avoided if you are an Internal Affairs Agent:
+
+1. Attempting to release a prisoner, or removing them from their cell for an interview, without contact Security and receiving their approval;
+
+2. Distracting Security with cries of innocence, or attempting to use Central Command faxes as a threat/leverage;
+
+3. Providing prisoners with any items except simple foodstuffs;
+
+4. Deliberately omitting facts when handling cases in order to "win" the case
+
+Keep in mind that this list is, by no means, a full representation of all the things you should not be doing as an Internal Affairs Agent. It is, however, a good example of the kind of actions you should be avoiding.
+
+==Trials==
+1. Only Permanent/Capital sentences can legally be brought to trial;
+
+2. Expedient application of Space Law is preferred over a trial process, trials should be reserved for when the justification for a sentence is objectionable and the station is not currently in a state of emergency;
+
+3. Only the Magistrate, Captain, or Head of Security may convene a trial. The Magistrate can overrule the Captain and Head of Security, while the Captain can only overrule the Head of Security;
+
+4. Security is not required to provide legal representation or attend a trial, even as witnesses;
+
+5. When provided by defendants, representation must be permitted in the trial to speak on their behalf. There are no restrictions on who may represent a defendant;
+
+6. Before beginning a trial, the magistrate should obtain a statement or "affidivat" with a full recount of the defendant's and any relevant witnesses' testimony of the events from their perspective;
+
+7. The Magistrate must ensure that decorum is kept during the trial and that the proceedings are timely;
+
+===Official Courtroom Proceedings===
+Magistrates must strictly enforce the following procedure during a trial, the magistrate should be mindful of the time and set time limits for each part of the proceeds. The gavel may be struck when a party goes beyond their time limit.
+
+1. The Prosecution presents its opening statement;
+
+2. The defence presents its opening statement;
+
+3. The Defendant is questioned first by the defense and then cross-examined by the prosecution;
+
+4. Any relevant witnesses are examined, the party that introduced the witness gets to examine them first, after which the other side is given a chance to cross examine the witness;
+
+5. The Prosecution presents its closing statement;
+
+6. The defence presents its closing statement;
+
+7. The Judge issues a verdict, which should be considered the final sentence in regards to the defendant. Only Central Command may override this verdict;
+
+==Civil Disputes==
+Civil Disputes involve cases where two or more personnel aboard the station are engaged in some manner of quarrel or discussion outside the scope of Space Law, usually involving a workplace grievance of some kind. This quarrel is significant enough as to warrant further intervention, but rather than pressing it via Security, it is instead settled in a court of law.
+
+===Civil Dispute Proceedings===
+
+1. The Magistrate may receive a civil dispute from any crew member. If a civil dispute is without clear merit, is being submitted by a third party that was uninvolved in the dispute, or concerns a clear violation of Space Law then the Magistrate should dismiss the dispute. Otherwise, proceedings may begin.
+
+2. The Magistrate should gather both parties so they may be able to present their case, after which the Magistrate may freely interrogate either party;
+
+3. The previous step lasts until the Judge feels all relevant information has been gathered. The case must either be dismissed or a verdict is passed, followed by a sentence;
+
+===Sentences and Verdicts===
+
+A '''verdict''' is passed once the presiding Judge believes all relevant information has been disclosed. This verdict can range from declaring one party guilty, both parties guilty, or dismissing the dispute and declaring all parties innocent;
+
+A '''sentence''' is passed after the verdict, since Civil Disputes are outside of Space Law this sentence cannot include jail time, but may include a fine, community service (mining points, janitorial duty, etc) for 15 mintues or less, or another solution as determined by the Magistrate within reason;
+
+
+==Contempt of Court==
+
+It is assumed that all parties inside the courtroom, and during the court proceedings, act with dignity and self-respect. This includes, but is not limited to, recognizing the authority of the Judge and Bailiff, maintaining an appropriate level of verbal control, and generally acting in a civilized manner.
+
+Should a person inside the courtroom act in such a way as to disturb/disrupt court proceedings, they should be forcefully removed from the courtroom. The decision on whether or not a person is in Contempt of Court rests with the presiding Judge.
+
+{{SOPTable}}
+
+[[Category:Standard Operating Procedure]]

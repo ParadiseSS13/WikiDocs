@@ -47,15 +47,15 @@ wiki_api_url = "https://paradisestation.org/wiki/api.php"
 # List of all wiki pages and their corresponding files
 wiki_documents = [
     WikiPage("aa_debug.wiki", "User:AffectedArc07/AA_Debug"),
-    #WikiPage("sop_command.wiki", "Standard_Operating_Procedure_(Command)"),
-    #WikiPage("sop_engineering.wiki", "Standard_Operating_Procedure_(Engineering)"),
-    #WikiPage("sop_legal.wiki", "Legal_Standard_Operating_Procedure"),
-    #WikiPage("sop_main.wiki", "Standard_Operating_Procedure"),
-    #WikiPage("sop_medical.wiki", "Standard_Operating_Procedure_(Medical)"),
-    #WikiPage("sop_science.wiki", "Standard_Operating_Procedure_(Science)"),
-    #WikiPage("sop_security.wiki", "Standard_Operating_Procedure_(Security)"),
-    #WikiPage("sop_service.wiki", "Standard_Operating_Procedure_(Service)"),
-    #WikiPage("sop_supply.wiki", "Standard_Operating_Procedure_(Supply)"),
+    WikiPage("sop_command.wiki", "Standard_Operating_Procedure_(Command)"),
+    WikiPage("sop_engineering.wiki", "Standard_Operating_Procedure_(Engineering)"),
+    WikiPage("sop_legal.wiki", "Legal_Standard_Operating_Procedure"),
+    WikiPage("sop_main.wiki", "Standard_Operating_Procedure"),
+    WikiPage("sop_medical.wiki", "Standard_Operating_Procedure_(Medical)"),
+    WikiPage("sop_science.wiki", "Standard_Operating_Procedure_(Science)"),
+    WikiPage("sop_security.wiki", "Standard_Operating_Procedure_(Security)"),
+    WikiPage("sop_service.wiki", "Standard_Operating_Procedure_(Service)"),
+    WikiPage("sop_supply.wiki", "Standard_Operating_Procedure_(Supply)"),
 ]
 
 if wiki_api_key is not None:

@@ -1,0 +1,75 @@
+<!-- 
+=== WARNING ===
+
+Editing this page on the wiki will get overwritten by the next autowiki update from the internal git.
+Please edit on there.
+
+=== WARNING ===   
+-->
+'''''Foreword:''''' '''Job SOP should not be a considered a checklist of conditions to fire someone over, and should not be rigidly followed to the letter in detriment of circumstances and context. As always, SOP can be malleable if the situation so requires, and the decision to punish a crewmember for breaching it ultimately falls onto the relevant Head of Staff, for Department Members, or Captain, for the Head of Staff.'''
+
+This is the page for Standard Operating Procedure for Engineering.
+
+For a list of regular SOP, or for other departments, see the main page for [[Standard Operating Procedure]].
+
+==[[File:Generic_ce.png|32px]][[Chief Engineer]]==
+
+1. The Chief Engineer must make sure that the Supermatter Engine and/or Solar Panels are fully set up and supplying power to the station before any further action is taken by themselves or their team;
+    
+2. The Chief Engineer, along with the Research Director, is responsible for maintaining the integrity of Telecommunications. The Chief Engineer must not hinder the proper functionality of Telecommunications, and must diagnose and repair any issues that arise;
+    
+3. The Chief Engineer is bound to the same rules regarding the axe as Atmospheric Technicians;
+    
+4. The Chief Engineer is permitted to carry a telescopic baton and a flash;
+    
+5. The Chief Engineer is responsible for maintaining the integrity of all engines set up on the station. Neglecting this duty is grounds for termination should the engine malfunction;
+    
+6. The Chief Engineer is responsible for maintaining the integrity of the Station's Atmospherics System. Failure to maintain this integrity is grounds for termination;
+    
+7. The Chief Engineer may declare an area "Condemned", if it is damaged to the point where repairs cannot reasonably be completed within an acceptable frame of time;
+    
+8. The Chief Engineer is permitted to grant Building Permits to crewmembers, but must keep the Station Blueprints in a safe location at all times.
+
+
+==[[File:Generic_engineer.png|32px]][[Station Engineer]]==
+
+1. Engineers must properly activate and wire the Supermatter Engine and/or Solar Panels at the start of the shift, before any other actions are undertaken;
+    
+2. Engineers are responsible for maintaining the integrity of the engines. Neglecting this duty is grounds for termination should an engine malfunction;
+    
+3. Engineers are not permitted to construct additional engines (such as additional SM/Tesla/Singularity engines, or solar panels) until at least one engine is correctly set up and powering the station;
+    
+4. Engineers are permitted to carry out solo reconstruction/rebuilding/personal projects if there is no damage to the station that requires fixing;
+    
+5. Engineers must check each active engine at least once per 30 minutes. 
+    
+6. The Supermatter Engine, if online and under emitter fire, must be constantly monitored. 
+    
+7. Engineers must respond promptly to breaches, regardless of size. Failure to report within fifteen (15) minutes will be considered a breach of Standard Operating Procedure, unless there are no spare Engineers to report or an Atmospheric Technician has arrived on scene first. All Hazard Zones must be cordoned off with Engineering Tape or holobarriers, for the sake of everyone else;
+    
+8. Engineers are permitted to hack doors to gain unauthorized access to locations if said locations happen to require urgent repairs;
+    
+9. Engineers are to maintain the integrity of the Station's Power Network. In addition, when hotwiring to the grid, the grid must be maintained under 1MW;
+    
+10. Engineers must ensure there is at least one (1) engineering MODsuit available on the station at all times, unless there is an emergency that requires the use of all suits.
+
+
+==[[File:Generic_atmos.png|32px]][[Atmospheric Technician]]==
+
+1. Atmospheric Technicians are permitted to completely repipe the Atmospherics Piping Setup, provided they do not pump harmful gases into anywhere except the Turbine;
+    
+2. Atmospheric Technicians are not permitted to create volatile mixes using Plasma and Oxygen, nor are they permitted to create any potentially harmful mixes with Carbon Dioxide and/or Nitrous Oxide. An exception is made when working with the Turbine;
+    
+3. Atmospheric Technicians are permitted to cool Plasma and store it for later use in Radiation Collectors. Likewise, they are permitted to cool Nitrogen or Carbon Dioxide and store it for use as coolant for the Supermatter Engine;
+    
+4. Atmospheric Technicians are not permitted to take the axe out of its case unless there is an immediate and urgent threat to their life or urgent access to crisis locations is necessary. The axe must be returned to the case afterwards, and the case locked;
+    
+5. Atmospheric Technicians are not permitted to tamper with the default values on Air Alarms. They are, however, permitted to create small, acclimatized rooms for species that require special atmospheric conditions (such as Plasmamen and Vox), provided they receive express permission from the Chief Engineer;
+    
+6. Atmospheric Technicians must periodically check on the Central Alarms Computer, in periods of, at most, thirty (30) minutes;
+    
+7. Atmospheric Technicians must respond promptly to piping and station breaches. Failure to report within fifteen (15) minutes will be considered a breach of Standard Operating Procedure, unless there are no spare Atmospheric Technicians to report, or an Engineer has arrived on scene first. All Hazard Zones must be cordoned off with Engineering Tape or holobarriers, for the sake of everyone else.
+
+
+{{SOPTable}}
+[[Category:Standard Operating Procedure]]

@@ -1,0 +1,134 @@
+<!--
+=== WARNING ===
+
+Editing this page on the wiki will get overwritten by the next autowiki update from the internal git.
+Please edit on there.
+
+=== WARNING ===
+-->
+'''''Foreword:''''' '''Job SOP should not be a considered a checklist of conditions to fire someone over, and should not be rigidly followed to the letter in detriment of circumstances and context. As always, SOP can be malleable if the situation so requires, and the decision to punish a crewmember for breaching it ultimately falls onto the relevant Head of Staff, for Department Members, or Captain, for the Head of Staff.'''
+
+This is the page for Standard Operating Procedure for Service.
+
+For a list of regular SOP, or for other departments, see the main page for [[Standard Operating Procedure]].
+
+==[[File:HeadOfPersonnel.png|32px]][[Head of Personnel]]==
+
+1. The Head of Personnel may not transfer any personnel to another Department without authorization from the relevant Head of Staff. If no Head of Staff is available, the Head of Personnel may make a judgement call. This does not apply to Security, which always requires authorization from the Head of Security, or Genetics, which requires both Chief Medical Officer and Research Director approval. If there is no Head of Security active, no transfers are allowed to Security without authorization from the Captain;
+    
+2. The Head of Personnel may not give any personnel increased access without authorization from the relevant Head of Staff. This includes the Head of Personnel. In addition, the Head of Personnel may only give Captain-Level access to someone if they are the Acting Captain. This access is to be removed when a proper Captain arrives on the station;
+    
+3. The Head of Personnel may not increase any Job Openings unless the relevant Head of Staff approves;
+    
+4. The Head of Personnel may not fire any personnel without authorization from the relevant Head of Staff, unless other conditions apply (see Space Law and General Standard Operating Procedure);
+
+5. The Head of Personnel may not promote anyone to the job of NanoTrasen Representative, Blueshield, Internal Affairs Agent, Magistrate or Nanotrasen Career Trainer;
+    
+6. The Head of Personnel is free to utilize paperwork at their discretion. However, during major station emergencies, expediency should take precedence over bureaucracy;
+    
+7. The Head of Personnel may not leave their office unmanned if there are personnel waiting in line. Failure to respond to personnel with a legitimate request within ten (10) minutes, either via radio or in person is to be considered a breach of Standard Operating Procedure;
+    
+8. The Head of Personnel is not permitted to perform Security duty. The Head of Personnel is permitted to carry a Miniature Energy Gun for self-defence only.
+
+==[[File:Generic_chef.png|32px]][[Chef]]==
+
+1. The Chef is not permitted to use the corpses of deceased personnel for meat unless given specific permission from the Chief Medical Officer. Exception is made for changelings and any other executed personnel not slated for Borgifications;
+    
+2. The Chef is permitted to use Ambrosia and other such light narcotics in the production of food;
+    
+3. The Chef must produce at least three (3) dishes of any food within twenty (20) minutes. Failure to do so is to be considered a breach of Standard Operating Procedure;
+    
+4. The Chef is not permitted to leave the kitchen unattended for longer than fifteen (15) minutes if there is no food available for consumption. Exception is made if there are no ingredients, or if the Kitchen is unusable/a hazard zone.
+
+5. The Chef is permitted to ask for monetary payment in exchange for food and other kitchen goods, atleast 50% of all revenue from these exchanges must be payed into the service account within a reasonable amount of time and the other 50% may be kept by the chef.
+
+6. The chef is permitted to use their Close Quarters Cooking (CQC) to defend their workplace and coworkers. Lethal force should only be used when necessary. 
+ 
+==[[File:Bartender.png|32px]][[Bartender]]==
+
+1. The Bartender is not permitted to carry their shotgun outside the bar. However, they may obtain permission from the Head of Security to shorten the barrel for easier transportation. Shortening the barrel without authorization is grounds for confiscation of the Bartender's shotgun;
+    
+2. The Bartender is permitted to use their shotgun on unruly bar patrons in order to throw them out if they are being disruptive. They are not, however, permitted to apply lethal, or near-lethal force;
+    
+3. The Bartender is exempt from legal ramifications when dutifully removing unruly (ie, overtly hostile) patrons from the Bar, provided, of course, they followed Guideline 2;
+    
+4. The Bartender is not permitted to possess regular (ie, lethal) shotgun ammunition. Only rubbershot and beanbag slugs are permitted. Exception is made during major emergencies, such as Nuclear Operatives or Blob Organisms;
+    
+5. The Bartender has full permission to forcefully throw out anyone who climbs over the bar counter without permission, up to and including personnel who may have access to the side windoor. They are not, however, permitted to do so if the person in question uses the door, or is on an active investigation;
+    
+6. The Bartender is permitted to ask for monetary payment in exchange for drinks, atleast 50% of all revenue from these exchanges must be payed into the service account within a reasonable amount of time and the other 50% may be kept by the bartender.
+
+==[[File:Generic_botanist.png|32px]][[Botanist]]==
+
+1. Botanists are permitted to grow experimental plants, presuming they do not distribute it without the express permission of the HOP.
+
+2. Botanists must provide the Chef with adequate Botanical Supplies, per the Chef’s request, free of charge.
+
+3. Botanists are not permitted to cause unregulated plantlife to spread outside of Hydroponics or other such designated locations without express permission of the HOP or Captain.
+
+4. Botanists are not permitted to hand out spatially unstable Botanical Supplies to non-Hydroponics personnel.
+
+5. Botanists are not permitted to harvest or hand out Amanitin or other such plant/fungi-derived poisons, unless specifically requested by the Head of Security and/or Captain.
+
+6. Botanists are not permitted the use of a chemical dispenser without the express permission of the Research Director.
+
+7. Botanists are not permitted to carry dangerous plantlife outside Botany.
+
+8. Botanists are permitted to ask for monetary payment in exchange for produce and other products, atleast 50% of all revenue from these exchanges must be payed into the service account within a reasonable amount of time and the other 50% may be kept by the botanists.
+
+==[[File:Generic_clown.png|32px]][[Clown]]==
+
+1. The Clown is permitted to, and freely exempt from any consequences of, slipping literally anyone, assuming it does not interfere with active Security duty, or in any way endangers other personnel (such as slipping a Paramedic who’s dragging a wounded person to Medbay);
+    
+2. The Clown is not permitted to remove their Clown Shoes or Clown Mask. Exception is made if removing them is truly necessary for the sake of their clowning performance (such as being a satire of bad clowns);
+    
+3. The Clown is not permitted to hold anything but water in their Sunflower;
+    
+4. The Clown is not permitted to use Space Lube on anything. Exception is made during major emergencies involving hostile humanoids, whereby use of Space Lube may be condoned to help the crew;
+    
+5. The Clown must legitimately attempt to be funny and/or entertaining at least once every fifteen (15) minutes. A simple pun will suffice. Continuously slipping people for no reason does not constitute humour. The joke is supposed to be funny for everyone;
+    
+6. The Clown is permitted to, and freely exempt from any consequences of, performing any harmless prank that does not directly conflict with the above Guidelines
+
+==[[File:Generic_mime.png|32px]][[Mime]]==
+
+1. The Mime is not permitted to talk, under any circumstance whatsoever. A Mime who breaks the Vow of Silence is to be stripped of their rank post haste;
+    
+2. The Mime is permitted to use written words to communicate, either via paper or PDA, but are discouraged from automatically resorting to it when miming will suffice;
+    
+3. The Mime must actually mime something at least once every thirty (30) minutes. Standing against an invisible wall will suffice.
+
+==[[File:Generic_chaplain.png|32px]][[Chaplain]]==
+
+1. The Chaplain is not permitted to execute Bible Healing without consent, unless the person in question is in Critical Condition and there are no doctors, as doing so incurs the risk of causing brain damage;
+    
+2. The Chaplain may not draw the Null Rod or any of its variants on any personnel. Using these items on any personnel is grounds to have these items confiscated, unless there is a clear and present danger to their life. Using any permanently attached Null Rod variants on any personnel outside of these conditions is grounds to have the relevant arm removed and replaced with a robotic prosthetic;
+    
+3. The Chaplain may not actively discriminate against any personnel on the grounds that it is a religious tenet of their particular faith;
+    
+4. The Chaplain may not perform funerals for any personnel that have since been cloned;
+    
+5. The Chaplain may, however, freely conduct funerals for non-cloneable/revivable personnel. All funerals must be concluded with the use of the Mass Driver or Crematorium.
+
+==[[File:Generic_janitor.png|32px]][[Janitor]]==
+
+1. The Janitor must promptly respond to any call from the crew for them to clean. Failure to respond within fifteen (15) minutes is to be considered a breach of Standard Operating Procedure;
+    
+2. The Janitor is only to use their Janitorial Keyring to assist in the cleaning of the Station. Any uses beyond this intent may lead to the confiscation of your Keyring by Security as well as Brig time for Trespass.
+
+3. If the Janitor's work leaves any surface slippery, they are to place wet floor signs, either physical or holographic. During major crises, such as Nuclear Operatives or Blob Organisms, the Janitor is to refrain from creating any slippery surfaces whatsoever;
+    
+4. The Janitor is not to use Cleaning Foam Grenades as pranking implements. Cleaning Foam Grenades are to be used to clean large surfaces at once, only;
+    
+5. During Viral Outbreaks, the Janitors must don their Biosuit, and focus on cleaning any biological waste, until such a point as the Viral Pathogen is deemed eliminated;
+    
+6. The Janitor may not deploy bear traps anywhere, unless there are actually large wild animals on the station.
+
+==[[File:Librarian.png|32px]][[Librarian]]==
+
+1. The Librarian is to keep at least one (1) shelf stocked with books for the station's personnel;
+    
+2. The Librarian is permitted to conduct journalism on any part of the station. However, they are not entitled to participation in trials, and must receive authorization from the Head of Security or Magistrate.
+
+{{SOPTable}}
+[[Category:Standard Operating Procedure]]

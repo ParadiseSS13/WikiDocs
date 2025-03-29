@@ -1,0 +1,95 @@
+<!--
+=== WARNING ===
+
+Editing this page on the wiki will get overwritten by the next autowiki update from the internal git.
+Please edit on there.
+
+=== WARNING ===
+-->
+'''''Foreword:''''' '''Job SOP should not be a considered a checklist of conditions to fire someone over, and should not be rigidly followed to the letter in detriment of circumstances and context. As always, SOP can be malleable if the situation so requires, and the decision to punish a crewmember for breaching it ultimately falls onto the relevant Head of Staff, for Department Members, or Captain, for the Head of Staff.'''
+
+This is the page for Standard Operating Procedure for Supply.
+
+For a list of regular SOP, or for other departments, see the main page for [[Standard Operating Procedure]].
+
+==[[File:Quartermaster.png|32px]][[Quartermaster]]==
+
+1. The Quartermaster must ensure that every approved order is delivered within 15 minutes of having been placed and approved;
+    
+2. In the event of a major crisis, such as Nuclear Operatives or a Blob Organism, expediency is to be favored over paperwork, as excessive bureaucracy may be detrimental to the well-being of the station;
+    
+3. The Quartermaster is permitted to hack the Autolathe, or to have a Cargo Tech do so, assuming they do not produce illegal materials;
+    
+4. The Quartermaster is not permitted to authorize the ordering of Security equipment and/or gear without express permission from the Head of Security and/or Captain. An exception is made during extreme emergencies, such as Nuclear Operatives or a Blob Organism, where said equipment is to be delivered to Security, post haste; 
+    
+5. The Quartermaster is permitted to authorize non-departmental orders (such as a Medical Doctor asking for Insulated Gloves) without express permission from the respective Head of Staff (in this example, the Chief Engineer), utilizing their best judgement, although they may still request a stamped form. However, any breach of Standard Operating Procedure and/or Space Law that results from said order will also implicate the Quartermaster;
+    
+6. The Quartermaster is not permitted to authorize a Supermatter Crate without express permission from the Chief Engineer;
+
+7. The Quartermaster is required to follow the guidelines put in place for Cargo Technicians.
+
+==[[File:Generic_cargo.png|32px]][[Cargo Technician]]==
+
+1. Cargo Technicians must ensure that every approved order is delivered within 15 minutes of having been placed and approved;
+
+2. Cargo Technicians are bound to the same rules as the Quartermaster regarding restricted crates (see above);
+    
+3. Cargo Technicians are not permitted to order items for sole personal use with the supply department account without express consent from the Quartermaster. Exception is made if there are more than 2500 space credits available and no outstanding orders. Cargo Technicians may not deplete the entire department account balance for this;
+    
+4. Cargo Technicians are not permitted to order non-essential items using the supply account (such as cats, or clothing) without express consent from the Quartermaster;
+    
+5. Cargo Technicians are not permitted to force and/or break open locked crates. The same applies to the Quartermaster. Exception is made for Abandoned Crates found by Mining;
+    
+6. Cargo Technicians are not permitted to authorize non-departmental orders (such as a Medical Doctor asking for Insulated Gloves) without express permission from the Quartermaster;
+    
+7. Cargo Technicians must ensure at least one copy of every Order Form (ie, the forms produced by the Requests Console) is kept inside Cargo.
+    
+8. Cargo Technicians must send back all crates that have been ordered, with accompanying stamped manifest inside the crate;
+    
+9. Cargo Technicians should ensure that a single Department does not fully drain the Ore Redemption Machine, as it can be utilized by multiple Departments;
+    
+10. Cargo Technicians are not permitted to ask for space credits in exchange for legal cargo crate orders or autolathe requests from crew members;
+
+11. Cargo Technicians are not permitted to hack the MULE Delivery Bots so that they may ride them, or that they may go faster;
+    
+12. Cargo Technicians are not permitted to trade items and/or favors in exchange for items with regular personnel without express consent from the Quartermaster;
+
+13. Cargo Technicians are not to keep any illegal items that are flushed down Disposals, and must deliver them to Security.
+
+==[[File:Generic_shaft.png|32px]][[Shaft Miner]]==
+
+1. Shaft Miners are not permitted to bring Gibtonite aboard the station;
+    
+2. Shaft Miners must deliver at least 1000 Points of mined material to the Ore Redemption Machine within one (1) hour;
+    
+3. Shaft Miners are not permitted to hoard materials. All mined materials are to be left in the Ore Redemption Machine;
+    
+4. Shaft Miners are not permitted to throw people into manufactured wormholes, nor are they permitted to trick people into using Bluespace Crystals, or throwing Bluespace Crystals at anyone;
+    
+5. Shaft Miners are not permitted to mine their way into the Labor Camp;
+
+6. Shaft Miners are not permitted to give Lavaland acquired items to station crew, unless the Quartermaster approves;
+
+7. Shaft Miners are bound by guidelines set for Cargo Technicians when inside the Cargo Office or Bay.
+
+==[[File:Explorer.png|32px]][[Explorer]]==
+
+1. Explorers must bring any contraband found in space to Security immediately upon return to the station;
+
+2. Explorers are not to make use of any weaponry found in space without a permit, and must bring any found to Security immediately upon return to the station;
+
+3. Explorers are not to allow usage of the teleporter room to crew lacking access without Command approval;
+
+4. Explorers must expand the telecommunication network in one space sector with the use of their telecommunication relay kit;
+
+5. Explorers must keep in contact with the Supply department while on an expedition;
+
+6. Explorers are not permitted to give weapons or other illict items/drugs acquired through space expeditions to station crew unless the Quartermaster and Head of Security approves within Space Law;
+
+7. Explorers are bound by the guidelines set for Cargo Technicians when inside the Cargo Office or Bay;
+
+8. Explorers are required to bring any salvage they find to the Supply Shuttle for selling.
+
+
+{{SOPTable}}
+[[Category:Standard Operating Procedure]]

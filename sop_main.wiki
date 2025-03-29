@@ -1,0 +1,431 @@
+<!--
+=== WARNING ===
+
+Editing this page on the wiki will get overwritten by the next autowiki update from the internal git.
+Please edit on there.
+
+=== WARNING ===
+-->
+{{Glossarytable}}
+
+'''Foreword:''' As the name indicates, Standard Operating Procedure is a set of Guidelines to be followed when the station is functioning nominally. Breaching Standard Operating Procedure without a very good reason is grounds for demotion, at the discretion of the relevant Head of Staff. In addition, blindly following the letter of SOP while ignoring the context of the shift is a '''ridiculously bad idea'''. SOP is malleable if the situation requires it, and the general well-being and proper functioning of the crew and station should not be sacrificed for the sake of rigorous adherence of SOP. Remember, '''context is king'''.
+
+Nanotrasen has a standard set of procedures for crew personnel to follow when there is (or isn't) an emergency. This is to assure that all actions are in the best interests of Nanotrasen. Failure to follow these may result in dismissal/demotion. Extreme or repeated cases may result in a jobban.
+
+'''NOTE:''' Any mentions of "The Station" or "Station" in SOP unless otherwise specified is in reference to the reader's (employee's) assigned Nanotrasen Science Station or Area of Operations. The following (but not limited to) research stations are assigned these SOP documents: NSS Keberos, NSS Cereberon, NSS Cyberiad, NSS Farragus, and NSS Diagoras
+
+==Departmental SOP [[File:Folder.png|32px]]==
+
+Along with the guidelines listed below, each and every department has it's own subset of job-specific Standard Operating Procedure that is to be adhered to whenever possible.
+
+<div style="column-count:2;-moz-column-count:2;-webkit-column-count:2; width: 60em;">
+* [[file:Ntflag.png|32px]] [[Standard Operating Procedure (Command)]]
+* [[file:Gavel.png|32px]] [[Legal Standard Operating Procedure|Standard Operating Procedure (Legal)]]
+* [[file:Handcuffs.png|32px]] [[Standard Operating Procedure (Security)]]
+* [[file:Wrench.png|32px]] [[Standard Operating Procedure (Engineering)]]
+* [[file:Cyborg.png|32px]] [[Standard Operating Procedure (Science)]]
+* [[file:Healthanalyzer.png|32px]] [[Standard Operating Procedure (Medical)]]
+* [[file:GrayCrate.png|32px]] [[Standard Operating Procedure (Supply)]]
+* [[file:Burger.png|32px]] [[Standard Operating Procedure (Service)]]
+</div>
+
+==Alert Levels [[File:Shuttleconsole.png|32px]]==
+{{pageframecollapse
+ | color      = 308E30
+ | image      = Greenpin.png
+ | title      = Security Level Green - Status: All clear; no threats on-board/near the station
+ | header     = ''"Attention! Security level lowered to green. All threats to the station have passed. All weapons need to be holstered and privacy laws are once again fully enforced."''
+ | content    = '''Called by:''' Anyone with Captain-Level Access at a working Communications Console.
+
+'''Conditions:'''
+* Default Alert Code at the start of the shift. Do not change unless a threat is suspected/confirmed;
+'''OR'''
+* All confirmed/suspected threats to the station and/or crew have been handled, or simply vanished on their own. It is recommended that, after 15+ minutes on Code Blue without any hostile activity, Code Green be called;
+
+'''Security:'''
+
+* All weapons must be holstered or kept in pockets/suit storage slots unless absolutely required;
+
+* Random searches are not permitted without express permission by either the Head of Security, Captain or Magistrate. However, searches are still permitted if there is reasonable suspicion of a crime
+
+'''Secure Areas:'''
+{{Hatnote|EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Teleporter, Vault, anywhere else requiring command level access that does not get regularly used}}
+
+* Secure areas such as the teleporter and EVA are to be left unbolted and ready to be used for their intended purposes. Exceptions are below;
+
+* The Vault is not to be opened unless repairs are required, gold is required for Research and Development (in case Mining fails to deliver) or a critical item needs to be hidden in the safe
+
+'''General Crew:'''
+
+* While not required, it is recommended that the crew activate and maximize their Suit Sensors, due to the potential for workplace accidents;
+
+* Free transit through the station is permitted for the crew, outside of Secure Areas.
+}}
+
+{{pageframecollapse
+ | color      = 394FCC
+ | image      = Bluepin.png
+ | title      = Security Level Blue - Status: There is a suspected threat on-board/near the station
+ | header     = ''"Attention! Security level elevated to blue. The station has received reliable information about possible hostile activity on the station. Security staff may have weapons visible and random searches are permitted."''
+ | content    = '''Called by:''' Anyone with Captain-Level Access at a working Communications Console.
+
+'''Conditions:'''
+* There is a suspected threat on-board the station, or at a nearby location in space. This includes any signs of hostile activity that have not caused any damage to station or crew, but nonetheless seem present.
+'''OR'''
+* Confirmed Code Red threats have been properly handled or subsided on their own. It is recommended that, after 15+ minutes on Code Red without any hostile activity, Code Blue be called.
+
+'''Security:'''
+
+* Weapons do not need to be holstered. However, it is recommended that Security personnel follow Security SOP in order to prevent accidents and to be fully aware of armament procedure;
+
+* Random searches are fully permitted. Security personnel may detain any personnel refusing a random search in order to conduct said search;
+
+'''Secure Areas:'''
+{{Hatnote|EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Teleporter, Vault, anywhere else requiring command level access that does not get regularly used}}
+
+* It is recommended that all Secure Areas be bolted down unless their use is necessary;
+
+'''General Crew:'''
+
+* All personnel are highly recommended to maximize their Suit Sensors;
+
+* Personnel are to report any suspicious activity to the nearest member of Security, or use their PDA or headsets if required;
+
+* Personnel are highly encouraged to exercise caution, even if the threat is only suspected. Following simple safety procedures (such as not going through Maintenance alone) can prevent needless accidents;
+
+* Visitors to the station (anyone with Civilian-level access) are recommended to stay in public areas, for their safety.
+}}
+
+{{pageframecollapse
+ | color      = 8B0000
+ | image      = Redpin.png
+ | title      = Security Level Red - Status: There is a confirmed, hostile threat on-board/near the station
+ | header     = ''"Attention! Code Red! There is an immediate and serious threat to the station. Security may have weapons unholstered at all times. Random searches are allowed and advised."''
+ | content    = '''Called by:''' Any two personnel with Command-Level Access, at a Card Swiper. Requires close timing.
+
+'''Conditions:'''
+* There is a confirmed, hostile threat on-board the station or nearby in space. This threat should pose recognizable danger to the station and/or crew at large.
+
+'''Security:'''
+
+* Security personnel should read Security SOP for armament, armory and safety procedures;
+
+* Random searches are fully permitted and recommended. Security personnel may detain any personnel refusing a random search in order to conduct said search;
+
+* Security personnel are to cooperate fully with any Central Command Staff (such as Emergency Response Teams) in order to eliminate the threat to the station.
+
+'''Secure Areas:'''
+{{Hatnote|EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Teleporter, Vault, anywhere else requiring command level access that does not get regularly used}}
+
+* There are no restrictions on bolting Secure Areas. Secure Areas may be left bolted or unbolted at the discretion of Command personnel;
+
+'''General Crew:'''
+
+* All personnel are required to maximize their Suit Sensors;
+
+* Unless their job demands it, personnel are forbidden from entering maintenance tunnels. Personnel in violation of this order may be charged with trespassing;
+
+* Visitors to the station (anyone with Civilian-level access) are to remain inside the Bar, Library or Dormitories for the duration of Code Red;
+
+* Personnel are to follow the instructions of Security staff, so long as they are within the bounds of Space Law and are not acting against the general well-being of the station and its crew. Failure to do so may lead to their arrest for Creating a Workplace Hazard.
+}}
+
+{{pageframecollapse
+ | color      = C6A500
+ | image      = Goldpin.png
+ | title      = Security Level Gamma - Status: There is a massive threat to the safety of the station and crew
+ | header     = ''"Attention! Gamma security level activated! Central Command has ordered the Gamma security level on the station. Security is to have weapons equipped at all times, and all civilians are to immediately seek their nearest head for transportation to a secure location."''
+ | content    ='''Called by:''' Central Command. Use a Communications Console or Fax Machine in order to explain the situation. Remember, Gamma is rarely called, for good reason. Having a well-written, concise fax that explains the situation to the best of your ability, as well as why it deserves Code Gamma being called, signed and stamped by the Captain or Acting Captain, goes a long way towards ensuring Gamma is provided. Remember, this is for '''extreme emergencies''' only.
+
+'''Conditions:'''
+* There is a massive threat to the continued safety of the station and crew, threatening the very existence of the Station;
+
+* However, this threat is not yet big enough to warrant the destruction of the Station, and Central Command may still want to protect their assets.
+
+'''Security:'''
+
+* Martial Law is enacted. Standard Operating Procedure is suspended. Security personnel have full permission to do whatever it takes to ensure that the safety of the station and crew is maintained. Personnel interfering with emergency procedures may be detained. Security are cleared to use lethal force in response to any physical threat. Assault of Command or ERT may be punished with immediate field execution.
+
+* Random searches are fully permitted, allowed and encouraged. Security personnel may detain any personnel refusing a random search in order to conduct said search;
+
+* If the Gamma Armory is deployed, Security are to secure its contents and distribute them to Security personnel in order to handle the threat. Non-Security personnel (including members of the Legal Sub-Department) are not to receive these weapons unless deemed necessary by the Warden, Head of Security, or Captain;
+
+* Security personnel are to cooperate fully with any Central Command Staff (such as Emergency Response Teams) in order to eliminate the threat to the station.
+
+'''Secure Areas:'''
+{{Hatnote|EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Teleporter, Vault, anywhere else requiring command level access that does not get regularly used}}
+
+* All Secure Areas are to be bolted down. Secure Areas may be left unbolted at the discretion of Command personnel;
+
+'''General Crew:'''
+
+* All personnel are required to maximize their Suit Sensors;
+
+* All personnel are to remain inside their Departments until such a point as Code Gamma has passed, unless specifically requested by Security and/or Command, or their particular skills can help resolve the situation (such as Field Medics or Engineers);
+
+* Visitors to the station (anyone with Civilian-level access) are to remain inside the Bar, Library or Dormitories until such a point as Code Gamma has passed;
+
+* Personnel are to follow the instructions of Security staff, so long as they are within the bounds of Space Law and are not acting against the general well-being of the station and its crew. Failure to do so may lead to their arrest for Creating a Workplace Hazard.
+}}
+
+{{pageframecollapse
+ | color      = 800080
+ | image      = Purplepin.png
+ | title      = Security Level Delta - Status: The station's Nuclear Fission Device has been armed
+ | header     = ''"The station's self-destruct mechanism has been engaged. All crew are instructed to abandon the station immediately. This is not a drill."''
+ | content    = '''Called by:''' Malfunctioning AI Units or the on-board Nuclear Fission Device being activated.
+
+'''Conditions:'''
+* A Malfunctioning AI Unit has dropped all semblance of stealth and activated their Override Mechanism.
+'''OR'''
+* The on-board Nuclear Fission Device has been activated by Command or Central Command personnel. Though it does not trigger Code Delta, Nuclear Operative Nuclear Operations should still be considered as a Code Delta situation.
+
+'''Security:'''
+
+* In the case of a Malfunctioning AI Unit, all Security personnel are '''''required''''' to drop whatever it is they are doing, and proceed to neutralize the AI Unit. Any relevant help from station personnel (such as Engineers or Scientists) is not to be turned down;
+
+* In the case of Nuclear Operatives, defusing the bomb is not recommended. Security personnel are to escort all other personnel off-station;
+
+* In the case of a Central Command-authorized activation of the on-board Nuclear Fission Device, all Security personnel are to stand down.
+
+'''Secure Areas:'''
+{{Hatnote|EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Teleporter, Vault, anywhere else requiring command level access that does not get regularly used}}
+
+* Procedures are irrelevant.
+
+'''General Crew:'''
+
+* In the case of a Malfunctioning AI Unit or Nuclear Operatives that have armed a nuclear device, all non-vital personnel are to evacuate off-station immediately;
+
+* In the case of a Central Command-authorized activation of the on-board Nuclear Fission Device, all personnel are to stand down.
+}}
+
+==Standard & Emergency Procedures [[File:Id regular.png|32px]] / [[File:EmergencyResponseTeam.png|32px]]==
+{{pageframecollapse
+ | color      = 88b1ef
+ | image      = Goldpin.png
+ | title      = Financial Procedures
+ | header     = The following situations are well within the range of conventional station operations and should serve as firm guidelines for financial questions.
+ | content    = The following clauses should serve as firm guidelines for financial and money account situations.
+
+==[[File:Id regular.png|32px]] Money Accounts and Space Credits==
+
+* Individual Crew Members have sole ownership over their money account and have discretion over where that money is spent, command or security members may not access crew money accounts unless their account is to be terminated after which the funds should be transferred to a department money account;
+
+* Crew members not working on behalf of a department or not explicitly using a departments resources or facilities are permitted to ask for space credit compensation for personal gain in return for services or products they offer to other crew members;
+
+* Department Money accounts should be used only for purchases for the entire department and not personal orders, departments should prioritize spending their funds on crates that the department needs and only spend money on optional crates when their is a surplus in funds;
+
+* Department heads and command should maintain security over department accounts and only ever give out account credentials to heads of staff or trusted members within the department the respective head of staff oversees, however, heads of staff may at their own discretion enable any member of their department to have approval power over supply crates through the NanoBank PDA app;
+
+* Department account funds are not limited to supply purchases and may be used for other things that would be otherwise beneficial to the station such as reasonable employee bonuses, compensation for non-department crew services, or interdepartmental exchanges.
+
+}}
+
+{{pageframe
+ | color      = 88b1ef
+ | image      = Goldpin.png
+ | title      = Standard Procedures
+ | header     = The following situations are well within the range of conventional station operations and should serve as firm guidelines for standard situations.
+ | content    = <br>
+
+==[[File:Id regular.png|32px]] Hiring/Transfer Policies==
+
+* No new hires or transfers are permitted without contacting the relevant Head of Staff. If one is not available, promoting an Acting Head of Staff is recommended. If none is available, the Head of Personnel/Captain are to utilize their best judgement (see Command SOP for any exceptions);
+
+* Promotion to Acting Head of Staff requires authorization by the Captain or Acting Captain;
+
+* The following jobs require permission from Central Command before hiring/transfer is done: Blueshield, NanoTrasen Representative, Internal Affairs Agent, and Magistrate. The same applies to any functionally identical job with another title;
+
+* All new hires to the Security Department, and Legal Sub-Department, are to be mindshield implanted and fully checked for unauthorized materials or suspicious communications.
+
+==[[File:Recycler.gif|32px]] Firing/Demotion Policies==
+
+* In the case of a full dismissal, the relevant ID is to be terminated;
+
+* In the case of a demotion, Civilian-level access is recommended. Alternatively, jobs such as Janitor or Clown may also be used;
+
+* No dismissals or demotions are to be performed without authorization from the relevant Head of Staff or Captain. See Chain of Command for how to handle dismissing a member of Command;
+
+* Personnel are to report to the Head of Personnel for dismissal/demotion. Failure to do so will lead to Security detaining them forcefully;
+
+* After a legal dismissal/demotion order is given to the person dismissed/demoted (e.g: by radio), any activity inside the previously assigned Department is to be considered Trespassing/Major Trespassing, and any item kept from said Department is to be considered Petty Theft/Theft. It is, as such, highly recommended that dismissed/demoted personnel willingly turn in all restricted items and cooperate with the process if they wish to avoid being brigged.
+
+===Causes for Demotion and Dismissal===
+{{Hatnote|Refer to the above for dismissal authority. Ultimately, the decision to fire/demote any personnel falls to the relevant Head of Staff or Captain. This is merely a list of reasons to fire someone over.}}
+
+* Any medium-severe breach of Standard Operating Procedure without proper cause;
+
+* Any medium crime or higher;
+
+* Critical incompetence at a given job;
+
+* Refusal to follow legal and relevant orders by the respective Head of Staff. Legality and relevance of said orders are to be judged by the Captain or Head of Personnel;
+
+* Creation of an abusive and/or unsafe work environment. Personnel consistently berating, insulting, belittling, or otherwise treating their coworkers like dirt, should be immediately disciplined.
+
+===Vote of No Confidence===
+{{Hatnote|A Vote of No Confidence is a method for crew to arrange for demotions of unfit command members. It must have a justified reason, detailed below, against the Head of Staff or Captain in question.}}
+
+* Votes have to be verified by a 3rd party who will tally the votes and verify the validity of the reason for it. The 3rd party must be the on-station Captain (unless they are the target of the vote), NT Representative, Magistrate or Centcomm if none of the previous are capable of acting as such. 
+
+* If the 3rd party dismisses the vote reason, the target of the vote must have their authority respected and not be further harassed about it, doing so may result in a demotion for creating an abusive work environment against them. If the department is understaffed or a tie occurs, the 3rd party may participate the vote.
+
+* Votes by departamental crew against their Head of Staff must pass with a 2/3 majority in favor of the vote for it to take effect.
+
+* Votes by Heads of Staff against their Captain must pass a simple majority in favor of the vote for it to take effect.
+
+* Justified reasons for a vote include but are not limited to; 'Causes for Demotion and Dismissal' breaches, Absenteeism, critical lack of communication, abuse of authority and incompetence, among others.
+
+* Unjustified reasons for a vote include but are not limited to; Personal gripes, reasonable and legal disciplining or firing of their staff and denial of permission, among others. 
+
+* If someone is to be demoted by a vote, Centcomm is to be informed afterwards via fax the details, vote count, reasons alongside other relevant information of the demotion. 
+
+}}
+
+{{pageframecollapse
+ | color      = 88b1ef
+ | image      = Goldpin.png
+ | title      = Emergency Procedures
+ | header     = The following situations are well within the range of conventional emergency station operations and should serve as firm guidelines for emergency situations.
+ | content    = <br>
+ 
+==[[File:EmergencyResponseTeam.png|32px]] Emergency Response Teams==
+
+===Crew Procedures===
+
+* Emergency Response Teams are only to be called when there is a Code Red-level threat or above;
+
+* Emergency Response Teams are not to be called concurrently with the NTV Charon (Escape Shuttle). Pick one or the other;
+
+* Emergency Response Teams are to be called when there is a major emergency aboard the station that the crew does not have the resources to fight properly. This includes, but is not limited to, any hostile threat present without an active Security force, or massive station damage without an active Engineering force;
+
+* Emergency Response Teams are not to be called without majority approval from Command;
+
+* Emergency Response Teams officially outrank anyone short of a Central Command Officer. Unless their actions are blatantly illegal and against the best interest of NanoTrasen, the station and its crew, their orders are to be followed above anyone else's.
+
+===Emergency Response Team Procedures===
+
+* The Emergency Response Team Leader is to ensure that all members of the Team are present before boarding the Station;
+
+* The Emergency Response Team Leader is to be considered the top authority inside the Emergency Response Team. Unless their orders are blatantly illegal and against the best interest of NanoTrasen, the station and its crew, they are to be followed above anyone else's;
+
+* All members of the Emergency Response Team are to activate their helmet cameras (by clicking the button next to their helmet) and maintain open lines of communication between them;
+
+* The Emergency Response Team is to prioritize whatever it was they were called over. Digressions are not permitted;
+
+* The Emergency Response Team is to ensure that none of its equipment falls in the hands of either the crew or hostile forces
+
+==[[File:Airlock_external.png|32px]] NTV Charon - The Escape Shuttle==
+
+* The NTV Charon is not to be called concurrently with an Emergency Response Team. Pick one or the other;
+
+* In the event of hostile biohazard lifeforms appearing on the station (such as Xenomorphs or Class 7-10 Blob Organisms), Central Command is to be notified before the NTV Charon is called. Failure to do so may lead to the Charon being recalled in order to enforce quarantine. Similarly, Central Command may prohibit calling the Charon in order to handle the biohazard;
+
+* In the event that the NTV Charon is called, all personnel are to wrap up their current task and head to the Escape Lobby within, at most, five minutes before departure;
+
+* Forcing an early departure of the NTV Charon is not permitted unless the structural integrity of the Charon is endangered (such as a nearby Gravitational Singularity, or a Meteor Storm), or the safety of the crew aboard the Charon is threatened (such as nearby hostile Ascendants or Nar-Sie Constructs);
+
+* All currently brigged personnel are to be kept in the Shuttle Brig;
+
+* All personnel in critical medical condition are to be given emergency medical aid.
+}}
+
+=Non-Standard Emergency Procedures [[File:Radiationman.png|32px]]=
+{{pageframe
+ | color      = 606D89
+ | image      = Graypin.png
+ | title      = Emergency Situation Procedures
+ | content    = The following situations are so outside the range of conventional station operation, that special procedure was drawn up for them. These are by no means rigid guidelines, but merely server as an indicator on what should be done to preserve the integrity of the station and its crew.
+
+==[[File:FireExtinguisher.png|32px]] Fire/Gas Spills ==
+
+* All personnel are to vacate the affected area;
+
+* Hazard Lock systems are to be left untouched. Deliberately opening Hazard Locks during a Fire/Gas Spill in order to open way to the Hazard is to be considered Sabotage/Grand Sabotage;
+
+* Engineering and Atmospherics personnel are to restore the affected area to working and livable condition.
+
+==[[File:Generic_biosuit.png|32px]] [[Guide to Virology|Viral Outbreak Procedures]]==
+
+{{Hatnote|A Viral Outbreak is defined as a situation where a Viral Pathogen has infected a significant portion of the crew (>10%). In the event of a Viral Outbreak, all infected personnel are to direct themselves to Medbay '''immediately'''. Any personnel experiencing odd symptoms are also recommended to head to Medbay, even if there is no Viral Outbreak.''}}
+
+1. All Medbay personnel are to contribute in fighting the outbreak if there are no other critical patients requiring assistance. Eliminating the Viral Threat becomes '''number one priority''';
+
+2. Personnel are to be informed of known symptoms, and directed to Medbay immediately if they are suffering from them;
+
+3. All infected personnel are to be confined to either an Isolated Room, or Virology;
+
+4. A blood sample is to be taken from an infected person, for study;
+
+5. If any infected personnel attempt to leave containment, Medbay Quarantine is to be '''initiated immediately''', and only lifted when more patients need to be admitted, or the Viral Outbreak is over;
+
+6. The cure must be identified, and administered to at least one (1) infected person. A blood sample must then be taken in order to produce a Vaccine;
+
+7. Once Vaccines are produced, they are to be handed out to all infected personnel;
+
+8. A sample of blood with the correct Antibodies must be kept in storage, in case any stray cases remained untreated;
+
+9. In case the Viral Pathogen leads to fluid leakage, cleaning these fluids is to be considered '''top priority''';
+
+10. Once the Viral Outbreak is over, all personnel are to return to regular duties.
+
+==[[File:Meteor.gif|32px]] Meteor Storms==
+
+* Personnel are to head to the Central Primary Hallway for the duration of the storm;
+
+* No repair activities are to be performed until the end of the storm, for safety reasons;
+
+* All personnel performing EVA duty are to return to the station post haste;
+
+* In the case of a short storm, Engineering is to repair any damage done ASAP;
+
+* In the case of a prolonged storm, no repair activities on non-critical components are to be performed. Personnel are to remain in the Central Primary Hallway, and all efforts focused on maintaining the integrity of the area. The NTV Charon is to be called when possible (at the discretion of Command), and an early launch is permitted.
+
+==[[File:Singulo_1.gif|32px]] Singularity Containment Failure==
+
+The Gravitational Singularity is to be tracked at all costs. If the Gravitational Singularity heads towards the main station, the NTV Charon is to be called. If the Gravitational Singularity heads off-station, damage done to the station should be taken into consideration. See below:
+
+* In the case of massive station damage, the NTV Charon is to be called;
+
+* In the case of light-medium station damage, an ERT is recommended, or, in the case of a competent Engineering team, merely extensive repairs.
+
+==[[File:Tesla gen.png|32px]] Tesla Containment Failure==
+
+* The Tesla Matrix is to be tracked at all costs, and its current location announced to the crew;
+
+* If the Tesla Matrix remains inside the Station rather than arcing into space, the Charon is to be called.
+
+==[[File:Supermatter.png|32px]] Supermatter Delamination Event==
+
+* The Supermatter Crystal is to be vented to space;
+
+* In such a case as the Supermatter Crystal containment was not equipped with a way to space the Crystal, the area around the Crystal is to be evacuated, and all personnel involved in the construction fired and brigged for Sabotage.
+
+==[[File:DarkGygax.png|32px]] Syndicate Declaration of War==
+
+* All weapons restrictions are lifted. Beepsky, and any other Security Bots, should have their protocols updated to reflect this;
+
+* Supply should focus on requesting as many weapons as possible. Security is to be prioritized for distribution, but regular personnel may also be armed;
+
+* Research and Development is to be manned. This is not negotiable. Science should work in tandem with Mining in order to fabricate weapons and equipment to fight the Syndicate Attack Team;
+
+* Erecting barricades in critical locations is highly recommended;
+
+* The NTV Charon may be called at the discretion of Command. If the station is not damaged after the fighting has subsided, it is recommended that the crew finish the shift.
+
+==[[File:Ntflagfire.gif|32px]] Confirmed Revolution==
+
+* All personnel are to comply with orders from Security personnel, so long as said orders are lawful. Failure to do so is grounds for detainment and inspection of possessions, as well as possible Mindshield Implantation, at the discretion of the Head of Security, or Acting Head of Security;
+
+* All personnel that are brigged for Medium Crimes or higher are to receive Mindshield Implantation. Similarly, if the number of active revolutionaries is more than twice the number of loyalists, the Head of Security or Acting Head of Security may order random implantation of crew members;
+
+* Lethal force is fully authorized if the number of active revolutionaries is more than twice the number of loyalists, and said revolutionaries are actively hostile.
+}}
+
+{{SOPTable}}
+[[Category:Standard Operating Procedure]]
+[[Category:Guides for New Players]]
+
+
+
