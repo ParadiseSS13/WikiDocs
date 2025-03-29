@@ -1,0 +1,22 @@
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy_pages:
+    name: Deploy Wiki Pages
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install Deps
+        run: python3 -m pip install -r cd/requirements.txt
+
+      - name: Run Deploy
+        run: python3 cd/update_wiki_pages.py "${{ secrets.MW_API_KEY }}"
