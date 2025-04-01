@@ -7,7 +7,7 @@ Edits can be made here by anyone, but a Head of Staff must approve them before m
 ## Expectations
 
 1. You are expected to test your edits on a blank/testing wiki page first before making an edit.
-2. Changes are to be atleast discussed before being made offhand.
+2. Changes are to be at least discussed before being made offhand.
 
 ## Notes
 
