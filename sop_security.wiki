@@ -44,18 +44,54 @@ For information about deadly force, trials, etc, see [[Space Law]].
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1. All Guidelines carry over from Code Green. In regards to Guideline 2, the Head of Security is now encouraged to carry their unique Energy Gun.
+1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
 
-2. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
+2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray.
+
+3. The Head of Security is not permitted to wear their Safeguard MODSuit unless there's an active environmental danger or threat on their life;
+
+4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
+
+5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+
+6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
+
+7. The Head of Security is not permitted to collect equipment from the Armory to carry on their person;
+
+8. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
+
+9. The Head of Security is permitted to wear their unique gas mask;
+
+10. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
+
+11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+
+12. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. Guidelines 1, 4, 5, 6, 8, 9, 10, and 11 are carried over from Code Green;
+1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
 
-2. Guideline 2 is carried over from Code Blue;
+2. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-3. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused Code Red. The Captain may perform this duty in the place of the Head of Security.
+3. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+
+4. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
+
+5. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
+
+6. The Head of Security is permitted to wear their unique gas mask;
+
+7. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
+
+8. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+
+9. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
+
+10. Guideline 2 is carried over from Code Blue;
+
+11. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused Code Red. The Captain may perform this duty in the place of the Head of Security.
 
 ==[[File:Generic_security.png|32px]][[Security Officer]]==
 
@@ -81,7 +117,29 @@ For information about deadly force, trials, etc, see [[Space Law]].
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1. Guidelines 1, 2, 4 and 8 are carried over from Code Green;
+1. Security Officers are required to state the reasons behind an arrest before any further action is taken. Exception is made if the suspect refuses to stop;
+
+2. Security Officers must attempt to bring all suspects or witnesses to the Brig without handcuffing or incapacitating them. Should the suspect not cooperate, the officer may proceed as usual;
+
+3. Security Officers are permitted to carry a standard disabler, a flash, a flashbang, a stunbaton and a can of pepperspray;
+
+4. Security Officers are required to wear at least one (1) identifiable and visible piece of security equipment on their person at all times. Acceptable items are: any security jumpsuit, any security armor, any security jacket or security winter coat, any security helmet or headwear.
+
+5. Security Officers are permitted to carry around any weapons or equipment available in the Armory, at the Warden's discretion, but never more than one at a time. Exception is made for severe emergencies, such as Blob Organisms or Nuclear Operatives;
+
+6. Security Officers are permitted to carry weapons in hand during regular patrols, although this is not advised;
+
+7. Security Officers are permitted to present weapons during arrests;
+
+8. Security Officers may demand entry to specific Departments during regular patrols;
+
+9. Security Officers may randomly search crewmembers, but are not allowed to apply any degree of force unless said crewmember acts overtly hostile. Crew who refuse to be searched may be stunned and cuffed for the search;
+
+10. Security Officers are permitted to leave prisoners bucklecuffed should they act hostile.
+=== <span style="color: darkred">Code Red</span> ===
+----
+
+1. Security Officers are required to wear at least one (1) identifiable and visible piece of security equipment on their person at all times. Acceptable items are: any security jumpsuit, any security armor, any security jacket or security winter coat, any security helmet or headwear.
 
 2. Security Officers are permitted to carry around any weapons or equipment available in the Armory, at the Warden's discretion, but never more than one at a time. Exception is made for severe emergencies, such as Blob Organisms or Nuclear Operatives;
 
@@ -94,14 +152,10 @@ For information about deadly force, trials, etc, see [[Space Law]].
 6. Security Officers may randomly search crewmembers, but are not allowed to apply any degree of force unless said crewmember acts overtly hostile. Crew who refuse to be searched may be stunned and cuffed for the search;
 
 7. Security Officers are permitted to leave prisoners bucklecuffed should they act hostile.
-=== <span style="color: darkred">Code Red</span> ===
-----
 
-1. Guidelines 2, 3, 4, 5, 6, and 7 are carried over from Code Blue. Guideline 8 is carried over from Code Green;
+8. Security Officers may arrest crewmembers with no stated reason if there is evidence they are involved in criminal activities;
 
-2. Security Officers may arrest crewmembers with no stated reason if there is evidence they are involved in criminal activities;
-
-3. Security Officers may forcefully relocate crewmembers to their respective Departments if necessary.
+9. Security Officers may forcefully relocate crewmembers to their respective Departments if necessary.
 
 ==[[File:Generic_warden.png|32px]][[Warden]]==
 
@@ -131,24 +185,44 @@ For information about deadly force, trials, etc, see [[Space Law]].
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1. Guidelines 1, 2, 3, 5, 8 and 10 are carried over from Code Green;
+1. The Warden may not perform arrests if there are Security Officers active;
 
-2. The Warden is permitted to hand out all equipment from the Armory. Energy and Laser guns are only to be handed out with Head of Security or Captain's approval, as they present a lethal risk, or if there is an immediate threat, such as Blob Organisms or Nuclear Operatives;
+2. The Warden must conduct a thorough search of every prisoner’s belongings, including pockets, PDA slots, any coat pockets and suit storage slots;
 
-3. The Warden is permitted to place the portable flashers inside the Brig;
+3. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-4. The Warden is permitted to place the deployable barriers inside the Brig.
+4. The Warden is permitted to carry a standard disabler, a flash, a stunbaton, a flashbang and a can of pepperspray;
+
+5. The Warden must read to every prisoner the crimes they are sentenced to;
+
+6. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+
+7. The Warden is permitted to hand out all equipment from the Armory. Energy and Laser guns are only to be handed out with Head of Security or Captain's approval, as they present a lethal risk, or if there is an immediate threat, such as Blob Organisms or Nuclear Operatives;
+
+8. The Warden is permitted to place the portable flashers inside the Brig;
+
+9. The Warden is permitted to place the deployable barriers inside the Brig.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. Guidelines 2, 3, 5, 8 and 10 are carried over from Code Green; 
+1. The Warden must conduct a thorough search of every prisoner’s belongings, including pockets, PDA slots, any coat pockets and suit storage slots;
 
-2. Guidelines 3 and 4 are carried over from Code Blue. In addition, the Warden may also carry any weapon from the Armory, but never more than one at a time;
+2. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-3. The Warden is permitted to distribute any weapon or piece of equipment in the Armory. This includes whatever Research has provided;
+3. The Warden is permitted to place the portable flashers inside the Brig;
 
-4. The Warden is permitted to carry out arrests freely.
+4. The Warden is permitted to carry a standard disabler, a flash, a stunbaton, a flashbang and a can of pepperspray;
+
+5. The Warden must read to every prisoner the crimes they are sentenced to;
+
+6. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+
+7. The Warden is permitted to place the deployable barriers inside the Brig.
+
+8. The Warden is permitted to distribute any weapon or piece of equipment in the Armory. This includes whatever Research has provided;
+
+9. The Warden is permitted to carry out arrests freely.
 
 ==[[File:Generic_detective.png|32px]][[Detective]]==
 
@@ -174,22 +248,48 @@ For information about deadly force, trials, etc, see [[Space Law]].
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1. All Guidelines carry over from Code Green;
+1. The Detective is permitted to assist Security Officers with all Patrol Duties. This includes stops, searches, and arrests as per the current Alert Code. They should, however, prioritize investigations and the collection of forensic evidence;
 
-2. The Detective may pull aside any suspect for an interrogation during the course of their time in Processing. No detainee is to be held for longer than ten (10) minutes in Processing if no evidence against them is readily available.
+2. The Detective is to follow all Standard Operating Procedures as outlined by the Security Officer SoP in regards to stops, searches and arrests as per the current Alert Code;
 
-3. The Detective may use their energy revolver on standard mode during arrests.
+3. The Detective may carry their DL-88 Energy Revolver, spare charge packs, and crew pinpointer;
+
+4. The Detective may carry their telescopic baton;
+
+5. The Detective is permitted to unholster and use their energy revolver on tracker mode for the sole purpose of marking criminals to search;
+
+6. The Detective is not permitted to overcharge their energy revolver without permission from the Head of Security;
+
+7. The Detective is permitted to wear non-Security clothing with permission from the Head of Security for the purpose of undercover investigations. They are, however, expected to carry with them a Holobadge and their Security ID on their person at all times.
+
+8. When not undercover, the Detective must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+
+9. The Detective may pull aside any suspect for an interrogation during the course of their time in Processing. No detainee is to be held for longer than ten (10) minutes in Processing if no evidence against them is readily available.
+
+10. The Detective may use their energy revolver on standard mode during arrests.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. Guidelines 1, 2, 3, 4, 5 and 7 carry over from Code Green;
+1. The Detective is permitted to assist Security Officers with all Patrol Duties. This includes stops, searches, and arrests as per the current Alert Code. They should, however, prioritize investigations and the collection of forensic evidence;
 
-2. Guidelines 2 and 3 carry over from Code Blue;
+2. The Detective is to follow all Standard Operating Procedures as outlined by the Security Officer SoP in regards to stops, searches and arrests as per the current Alert Code;
 
-3. The Detective is permitted to overcharge their energy revolver and freely discharge it when handling deadly threats in accordance with Space Law's ruling on Use of Deadly Force;
+3. The Detective may carry their DL-88 Energy Revolver, spare charge packs, and crew pinpointer;
 
-4. The Detective is permitted to carry around any weapons or equipment available in the Armory, at the Warden's discretion, but never more than one at a time. Exception is made for severe emergencies, such as Blob Organisms or Nuclear Operatives; 
+4. The Detective may carry their telescopic baton;
+
+5. The Detective is permitted to unholster and use their energy revolver on tracker mode for the sole purpose of marking criminals to search;
+
+7. The Detective is permitted to wear non-Security clothing with permission from the Head of Security for the purpose of undercover investigations. They are, however, expected to carry with them a Holobadge and their Security ID on their person at all times.
+
+8. The Detective may pull aside any suspect for an interrogation during the course of their time in Processing. No detainee is to be held for longer than ten (10) minutes in Processing if no evidence against them is readily available.
+
+9. The Detective may use their energy revolver on standard mode during arrests.
+
+10. The Detective is permitted to overcharge their energy revolver and freely discharge it when handling deadly threats in accordance with Space Law's ruling on Use of Deadly Force;
+
+11. The Detective is permitted to carry around any weapons or equipment available in the Armory, at the Warden's discretion, but never more than one at a time. Exception is made for severe emergencies, such as Blob Organisms or Nuclear Operatives; 
 
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
