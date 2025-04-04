@@ -46,7 +46,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
 
-2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray.
+2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray;
 
 3. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
@@ -62,7 +62,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 9. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
 
-10. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+10. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers;
 
 11. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
 
@@ -83,9 +83,9 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 7. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
 
-8. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+8. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers;
 
-9. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
+9. The Head of Security is permitted to wear their Safeguard MODSuit at all times;
 
 10. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray;
 
