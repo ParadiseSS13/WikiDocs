@@ -66,7 +66,6 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
 
-
 === <span style="color: darkred">Code Red</span> ===
 ----
 
@@ -135,6 +134,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 9. Security Officers may randomly search crewmembers, but are not allowed to apply any degree of force unless said crewmember acts overtly hostile. Crew who refuse to be searched may be stunned and cuffed for the search;
 
 10. Security Officers are permitted to leave prisoners bucklecuffed should they act hostile.
+
 === <span style="color: darkred">Code Red</span> ===
 ----
 
