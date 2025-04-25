@@ -27,7 +27,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In this event, Central Command is to be notified;
 
 6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
 
@@ -52,7 +52,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In this event, Central Command is to be notified;
 
 6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
 
@@ -78,7 +78,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In this event, Central Command is to be notified;
 
 6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
 
