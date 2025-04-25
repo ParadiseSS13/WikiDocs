@@ -39,7 +39,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 10. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
 
-11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers;
 
 === <span style="color: darkblue">Code Blue</span> ===
 ----
@@ -48,7 +48,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray. They are permitted and encouraged to carry their unique Energy Gun;
 
-3. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
+3. The Head of Security is permitted to wear their Safeguard MODSuit at all times;
 
 4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
@@ -90,7 +90,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 10. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers;
 
-11. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused Code Red. The Captain may perform this duty in the place of the Head of Security.
+11. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused Code Red. The Captain may perform this duty in the place of the Head of Security;
 
 ==[[File:Generic_security.png|32px]][[Security Officer]]==
 
