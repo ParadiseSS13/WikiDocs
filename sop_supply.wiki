@@ -107,5 +107,6 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 7. The Smith is required to have approval from the Head of Security, Magistrate, or Captain to sell produced energy weapons.
 
 
+
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
