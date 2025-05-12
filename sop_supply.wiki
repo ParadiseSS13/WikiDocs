@@ -104,6 +104,8 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 6. The Smith is bound by guidelines set for Cargo Technicians when inside the Cargo Office or Bay.
 
+7. The Smith is required to have Head of Security, Magistrate, or Captain approval to sell produced energy weapons.
+
 
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
