@@ -75,7 +75,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    Guidelines 2,3, 4, 5, 6, 7, and 8 carry over from Code Green;
+1.    Guidelines 2, 3, 4, 5, 6, 7, and 8 carry over from Code Green;
 
 2.    The Roboticist is now permitted to construct Combat Mechs without prior approval. All Combat Mechs must be delivered to the Brig for storage upon completion. Exception is made for extreme emergencies, such as a Blob Organism or Nuclear Operatives, where the Roboticist may pilot the Mech themselves. However, even in these circumstances, the Mech must be delivered to the Armory after the emergency is over. The Research Director is placed under the same restrictions.
 
