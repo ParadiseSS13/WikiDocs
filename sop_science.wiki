@@ -53,7 +53,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 1.    The Roboticist is not permitted to construct Combat Mechs without express permission from the Captain and/or Head of Security. This refers to the Durand, Gygax and Phazon. If permitted, the Mechs is to be delivered to the Armory for storage. The Research Director is placed under the same restrictions;
 
-2.    The Roboticist is freely permitted to construct Utility Mechs, along with any assorted Utility Equipment. This refers to Ripleys (to be handed to Mining), Firefighting Ripleys (to be handed to Atmospherics) and the Odysseus Medical Mech (to be handed to Medical). The HONK Mech or Reticence is not to be constructed without '''full approval by the Research Director and Captain''';
+2.    The Roboticist is freely permitted to construct Utility Mechs, along with any assorted Utility Equipment. This refers to Ripleys (to be handed to Mining), Firefighting Ripleys (to be handed to Atmospherics), Nkarrdem Janitoral Mechs (to be handed to the Janitor), and the Odysseus Medical Mech (to be handed to Medical). The HONK Mech or Reticence is not to be constructed without '''full approval by the Research Director and Captain''';
 
 3.    The Roboticist is freely permitted to construct Cyborgs and all assorted equipment;
 
@@ -70,16 +70,14 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1.    Guidelines 2, 3, 4, 5, 6, 7 and 8 carry over from Code Green;
-
-2.    The Roboticist is permitted to construct Combat Mechs without prior consent, but must deliver them to the Armory for storage. Failure to comply will result in the Combat Mech being destroyed. Exception is made for extreme emergencies, such as a Blob Organism or Nuclear Operatives, where the Roboticist may pilot the Mech themselves. However, even in these circumstances, the Mech must be delivered to the Armory after the emergency is over. The Research Director is placed under the same restrictions.
+1.    All Guidelines carry over from Code Green.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    Guidelines 3, 4, 5, 6, 7, and 8 carry over from Code Green;
+1.    Guidelines 2,3, 4, 5, 6, 7, and 8 carry over from Code Green;
 
-2.    All Guidelines carry over from Code Blue.
+2.    The Roboticist is now permitted to construct Combat Mechs without prior approval. All Combat Mechs must be delivered to the Brig for storage upon completion. Exception is made for extreme emergencies, such as a Blob Organism or Nuclear Operatives, where the Roboticist may pilot the Mech themselves. However, even in these circumstances, the Mech must be delivered to the Armory after the emergency is over. The Research Director is placed under the same restrictions.
 
 ==[[File:Generic_scientist.png|32px]][[Scientist]]==
 
