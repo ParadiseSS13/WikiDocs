@@ -40,9 +40,9 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    Guidelines 1, 4, 5, 6, 7, 8 and 9 carry over from Code Green;
+1.    All Guidelines except for Guideline 3 carry over from Code Green;
 
-2.    In addition to the a telescopic baton and flash, the Research Director is permitted to carry a single weapon created in the Protolathe, provided they receive authorization from the Head of Security. Exception is made during extreme emergencies, such as Nuclear Operatives or Blob Organisms.
+2.    In addition to a telescopic baton and flash, the Research Director is permitted to carry a single weapon created in the Protolathe, provided they receive authorization from the Head of Security. Exception is made during extreme emergencies, such as Nuclear Operatives or Blob Organisms.
 
 3.    The Research Director is permitted to bring harmful chemicals outside of Science for delivery to security personnel, so long as either the Head of Security or Captain authorises it. Said chemicals must be for security-oriented purposes (thermite, controlled explosives, crowd control, biohazard containment, etc.).
 
