@@ -97,7 +97,7 @@ The labor camp is designed to hold up to four temporary prisoners at a time. Whi
 
 3.  The officer is to safely release the prisoner into the labor camp, and move the shuttle back to the station.
 
-===Execution: General ===
+===Execution===
 
 1.	Prisoner's security status must be set to "*Execute*", and their relevant crimes entered into their sec record. If they are crew but do not have a sec record, create a record in their name then set it as before. If they are not crew, this step can be skipped.
 
@@ -113,35 +113,29 @@ The labor camp is designed to hold up to four temporary prisoners at a time. Whi
 
 7.  It is advised, but not required, to have medical personnel in attendance to verify death.
 
-8.  Authorization must be given by the Magistrate. If a Magistrate is not assigned, dead, missing, or otherwise rendered incapable of providing authorization, the Captain may authorize an execution in their stead. Should the Magistrate and Captain be unable to provide authorization, it must come from Central Command. Without authorization, executions are murder.
+8. A final round via ballistic or energy weapon to the cranium is advised if the prisoner was not terminated.
 
-9.  Though not obligatory, it is recommended that all executed prisoners be considered for borgification post-execution.
+9. Executed prisoners must be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
 
-10.  Kill on sight orders are classified as executions, however due to the often chaotic situations in which these occur, security records must be updated (per point 1) within a reasonable amount of time after the order is given or carried out.
+10.  Authorization must be given by the Magistrate. If a Magistrate is not assigned, dead, missing, or otherwise rendered incapable of providing authorization, the Captain may authorize an execution in their stead. Should the Magistrate and Captain be unable to provide authorization, it must come from Central Command. Without authorization, executions are murder.
 
-11. If medical personnel have been assigned to security, best effort should be made to inform them of any performed execution so that medical records of the prisoner may be updated.
+11.  Kill on sight orders are classified as executions, however due to the often chaotic situations in which these occur, security records must be updated (per point 1) within a reasonable amount of time after the order is given or carried out.
 
-===Execution: Electric Chair===
+12. Medical personnel should be informed of any performed execution, so that medical records of the prisoner may be updated.
+
+====Execution - Electric Chair====
 
 1.	Prisoner must be bucklecuffed to the electric chair in the Execution room.
 
 2.	Prisoner must be allowed their final words, after which the chair will be activated.
 
-3.  Prisoner's pulse is to be checked to confirm death.
-
-4.	Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
-
-===Execution: Lethal Injection===
+====Execution - Lethal Injection====
 
 1.	Prisoner must be bucklecuffed to the electric chair or bed in the Execution room.
 
 2.	Prisoner must be allowed their final words, after which the injection will be applied.
 
-3.  Prisoner's pulse is to be checked to confirm death.
-
-4.	Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
-
-===Execution: Firing Squad===
+====Execution - Firing Squad====
 
 1.	Prisoner must be brought to either the Firing Range or the Execution room.
 
@@ -149,11 +143,7 @@ The labor camp is designed to hold up to four temporary prisoners at a time. Whi
 
 3.	Prisoner must be allowed their final words, after which authorised security personnel are to open fire with any of the following: Energy Gun, Advanced Energy Gun, Laser Gun, Revolver, Shotgun, or any ranged weapon manufactured by Research.
 
-4.  Prisoner's pulse is to be checked to confirm death.
-
-5.	Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
-
-===Execution: Gas Inhalation===
+====Execution - Gas Inhalation====
 
 1.  Prisoner must be bucklecuffed to the electric chair in the Execution room.
 
@@ -163,21 +153,13 @@ The labor camp is designed to hold up to four temporary prisoners at a time. Whi
 
 4.  After sufficient time has passed, blast doors are to be opened to vent toxic gas into space. They are then to be closed to re-pressurise the room.
 
-5.  Prisoner's pulse is to be checked, final round via ballistic or energy weapon to the cranium is advised if the prisoner is not terminated.
-
-6.  Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
-
-===Execution: Asphyxiation===
+====Execution - Asphyxiation====
 
 1.  Prisoner must be bucklecuffed to the electric chair in the Execution room.
 
 2.  Prisoner must be allowed their final words, after which blast doors are to be opened. Make sure the air vent is off.
 
 3.  Blast doors are to be closed, and vent activated. After sufficient time has passed, blast doors are to be closed to re-pressurise the room.
-
-4.  Prisoner's pulse is to be checked, final round via ballistic or energy weapon to the cranium is advised if the prisoner is not terminated.
-
-5.  Prisoner must then be borged, fired into space via mass driver, cremated, or placed in the morgue with a DNR Notice, at the discretion of the Magistrate, Captain or Head of Security.
 
 ==Parole==
 
