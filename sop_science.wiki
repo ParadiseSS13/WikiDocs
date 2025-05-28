@@ -24,7 +24,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 4.    The Research Director is permitted to carry their Reactive Teleport Armour on their person. However, it is highly recommended they keep it inactive unless necessary, for personal safety;
 
-5.    The Research Director is not permitted to authorize the construction of AI Units without the Captain’s approval. An exception is made if the station was not provided with an AI Unit, or a previous AI Unit had to be destroyed. If an AI does exist already, it's permission is required before constructing a new AI, unless it is clearly malfunctioning or subverted.
+5.    The Research Director is not permitted to authorize the construction of AI Units without the Captain’s approval. An exception is made if the station was not provided with an AI Unit, or a previous AI Unit had to be destroyed. If an AI does exist already, it's permission is required before constructing a new AI, unless it is clearly malfunctioning or subverted;
 
 6.    The Research Director must keep the Communications Decryption Key on their person at all times, or at least somewhere safe and out of reach;
 
@@ -40,9 +40,9 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    Guidelines 1, 4, 5, 6, 7, 8 and 9 carry over from Code Green;
+1.    All Guidelines except for Guideline 3 carry over from Code Green;
 
-2.    In addition to the a telescopic baton and flash, the Research Director is permitted to carry a single weapon created in the Protolathe, provided they receive authorization from the Head of Security. Exception is made during extreme emergencies, such as Nuclear Operatives or Blob Organisms.
+2.    In addition to a telescopic baton and flash, the Research Director is permitted to carry a single weapon created in the Protolathe, provided they receive authorization from the Head of Security. Exception is made during extreme emergencies, such as Nuclear Operatives or Blob Organisms;
 
 3.    The Research Director is permitted to bring harmful chemicals outside of Science for delivery to security personnel, so long as either the Head of Security or Captain authorises it. Said chemicals must be for security-oriented purposes (thermite, controlled explosives, crowd control, biohazard containment, etc.).
 
