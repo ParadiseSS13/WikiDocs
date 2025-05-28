@@ -96,15 +96,13 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 2. The Smith is not permitted to hoard minerals. The Ore Redemption Machine must remain stocked with each ore available;
 
-3. The Smith is allowed to sell their products to the crew, not including minerals;
+3. The Smith is allowed to sell their products to the crew, not including minerals. They must have approval from the Head of Security, Magistrate, or Captain to sell produced energy weapons;
 
 4. The Smith is permitted to use their drill and mining equipment to gather minerals if the Shaft Miners are incapable of doing so, or if there is a lack of Shaft Miners;
 
 5. The Smith is required to follow guidelines 1, 4, 5, and 6 set for Shaft Miners;
 
 6. The Smith is bound by guidelines set for Cargo Technicians when inside the Cargo Office or Bay;
-
-7. The Smith is required to have approval from the Head of Security, Magistrate, or Captain to sell produced energy weapons.
 
 
 
