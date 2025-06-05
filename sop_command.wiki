@@ -30,23 +30,23 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 8. The Captain is not permitted to wear their Magnate MODSuit unless there's an active environmental danger or threat on their life;
     
-9. The Captain, despite being in charge of the Station, is not independent from NanoTrasen. Any attempts to disregard general company policy are to be considered an instant condition for contract termination;
+9. The Captain, despite being in charge of the Station, is not independent from Nanotrasen. Any attempts to disregard general company policy are to be considered an instant condition for contract termination;
     
 10. The Captain may only promote personnel to a Acting Head of Staff position if there is no assigned Head of Staff associated with the Department. Said Acting Head of Staff must be a member of the Department they are to lead. See below for more information on Chain of Command;
     
-11. The Captain may not fire any Head of Staff without reasonable justification (i.e., incompetency, criminal activity, or otherwise any action that endangers or compromises the station and/or crew). The Captain may not fire any Central Command VIPs (i.e., Blueshield, Magistrate and NanoTrasen Representative) without permission from Central Command, unless they are blatantly acting against the well-being and safety of the crew and station. The Captain must also follow HoP SOP point 5.
+11. The Captain may not fire any Head of Staff without reasonable justification (i.e., incompetency, criminal activity, or otherwise any action that endangers or compromises the station and/or crew). The Captain may not fire any Central Command VIPs (i.e., Blueshield, Magistrate and Nanotrasen Representative) without permission from Central Command, unless they are blatantly acting against the well-being and safety of the crew and station. The Captain must also follow HoP SOP point 5.
 
-==[[File:NanoRep.png|32px]][[NanoTrasen Representative]]==
+==[[File:NanoRep.png|32px]][[Nanotrasen Representative]]==
 
-1. The NanoTrasen Representative is to ensure that every Department is following Standard Operating Procedure, up to and including the respective Head of Staff. If a Head of Staff is not available for a Department, the NanoTrasen Representative must ensure that the Captain appoints an Acting Head of Staff for said Department;
+1. The Nanotrasen Representative is to ensure that every Department is following Standard Operating Procedure, up to and including the respective Head of Staff. If a Head of Staff is not available for a Department, the Nanotrasen Representative must ensure that the Captain appoints an Acting Head of Staff for said Department;
     
-2. The NanoTrasen Representative must attempt to resolve any breach of Standard Operating Procedure locally before contacting Central Command. This is an imperative: Standard Operating Procedure should always be followed unless there is a very good reason not to;
+2. The Nanotrasen Representative must attempt to resolve any breach of Standard Operating Procedure locally before contacting Central Command. This is an imperative: Standard Operating Procedure should always be followed unless there is a very good reason not to;
     
-3. The NanoTrasen Representative must, together with the Magistrate and Head of Security, ensure that Space Law is being followed and correctly applied;
+3. The Nanotrasen Representative must, together with the Magistrate and Head of Security, ensure that Space Law is being followed and correctly applied;
     
-4. The NanoTrasen Representative may not threaten the use of a fax in order to gain leverage over any personnel, up to and including Command. In addition they may not threaten to fire or have Central Command fire anyone, unless they actually possess a demotion note;
+4. The Nanotrasen Representative may not threaten the use of a fax in order to gain leverage over any personnel, up to and including Command. In addition they may not threaten to fire or have Central Command fire anyone, unless they actually possess a demotion note;
     
-5. The NanoTrasen Representative is permitted to carry their flash and a Stun-Cane, or a Telescopic Baton if the Stun-Cane is lost.
+5. The Nanotrasen Representative is permitted to carry their flash and a Stun-Cane, or a Telescopic Baton if the Stun-Cane is lost.
 
 ==[[File:Blueshield.png|32px]][[Blueshield Officer]]==
 
@@ -80,7 +80,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 1. Only the Captain or Research Director may enter the AI Upload to perform Law Changes (see below), and only the Captain, Research Director or Chief Engineer may enter the AI Core to perform a Carding (see below);
     
-2. No Law Changes are to be performed without approval from the Captain and Research Director. The only Lawsets to be used are those provided by NanoTrasen. Failure to legally perform a Law Change is to be considered Sabotage. Command must be informed prior to the Law Change, and all objections must be taken into consideration. If the number of Command personnel opposing the Law Change is greater than the number of Command personnel in favour, the Law Change is not to be done. If the Law Change is performed, the crew is to be immediately informed of the new Law(s);
+2. No Law Changes are to be performed without approval from the Captain and Research Director. The only Lawsets to be used are those provided by Nanotrasen. Failure to legally perform a Law Change is to be considered Sabotage. Command must be informed prior to the Law Change, and all objections must be taken into consideration. If the number of Command personnel opposing the Law Change is greater than the number of Command personnel in favour, the Law Change is not to be done. If the Law Change is performed, the crew is to be immediately informed of the new Law(s);
     
 3. The AI may not be Carded unless it is clearly malfunctioning or subverted. However, any member of Command may card it if the AI agrees to it, either at the end of the shift, or due to external circumstances (such as massive damage to the AI Satellite);
     
@@ -90,7 +90,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
     
 6. Freeform Laws are only to be added if absolutely necessary due to external circumstances (such as major station emergencies). Adding unnecessary Freeform Laws is not permitted. Exception is made if the AI Unit and majority of Command agree to the Freeform Law that is proposed;
     
-7. Any use of the "Purge" Module is to be followed by the upload of a NanoTrasen-approved Lawset immediately. AI Units must be bound to a Lawset at all times.
+7. Any use of the "Purge" Module is to be followed by the upload of a Nanotrasen-approved Lawset immediately. AI Units must be bound to a Lawset at all times.
 
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
