@@ -178,13 +178,13 @@ If the parolee commits a crime while on parole:
 
 ==Mindshield Implants==
 
-Mindshield Implants are specialized, NanoTrasen-brand implants that protect whoever they are installed into from brainwashing techniques commonly associated with both the Syndicate and the Cult of Nar-Sie. For this reason, all members of Security, in addition to the Captain, NanoTrasen Representative and Blueshield, are issued Mindshield Implants by default, as a security measure.
+Mindshield Implants are specialized, Nanotrasen-brand implants that protect whoever they are installed into from brainwashing techniques commonly associated with both the Syndicate and the Cult of Nar-Sie. For this reason, all members of Security, in addition to the Captain, Nanotrasen Representative and Blueshield, are issued Mindshield Implants by default, as a security measure.
 
-If any crew member is hired or promoted (even if only temporarily) to one of the following positions they are to receive a Mindshield Implant per NanoTrasen policy:
+If any crew member is hired or promoted (even if only temporarily) to one of the following positions they are to receive a Mindshield Implant per Nanotrasen policy:
 * All Security Department positions
 * [[Captain]] OR Acting Captain
 * [[Blueshield]]
-* [[NanoTrasen Representative]]
+* [[Nanotrasen Representative]]
 * [[Internal_Affairs_Agent|Internal Affairs Agent]]
 
 While procedures for a Revolution are already detailed in General Standard Operating Procedure, it is important to note other situations in which Mindshield Implantation may be used. All personnel that are successfully deconverted from the Cult of Nar-Sie's influence may be given a Mindshield Implant at the discretion of the Head of Security. This is not advised if the deconverted person does not wish to receive the implant.
@@ -213,7 +213,7 @@ Lastly, personnel that have been Mindslaved should be offered a Mindshield Impla
 
 5. Internal Affairs Agents are to ensure that Standard Operating Procedure is being properly followed, when applicable, and to contact the relevant Head of Staff when it is not;
 
-6. Internal Affairs Agents are to attempt to resolve all Standard Operating Procedure issues locally before contacting Central Command. This should be done in tandem with Command and, if possible, personnel in the relevant Department. If a valid report is ignored by the relevant Head of Staff, the Captain is to be contacted. If the Captain ignores the report, then Central Command and/or the NanoTrasen Representative must be contacted.
+6. Internal Affairs Agents are to attempt to resolve all Standard Operating Procedure issues locally before contacting Central Command. This should be done in tandem with Command and, if possible, personnel in the relevant Department. If a valid report is ignored by the relevant Head of Staff, the Captain is to be contacted. If the Captain ignores the report, then Central Command and/or the Nanotrasen Representative must be contacted.
 
 ==[[File:Magistrate.png|32px]][[Magistrate]]==
 
@@ -235,7 +235,7 @@ Lastly, personnel that have been Mindslaved should be offered a Mindshield Impla
 
 ==Internal Affairs Range of Action==
 
-NanoTrasen provides job openings for Internal Affairs Agents precisely to ensure that the crew can be given legal representation in cases where Capital Sentences may not be fully justified. These openings are also there to allow for said Agents to ensure that Standard Operating Procedure and Space Law are being followed correctly, and to attempt to amend infringements on the field.
+Nanotrasen provides job openings for Internal Affairs Agents precisely to ensure that the crew can be given legal representation in cases where Capital Sentences may not be fully justified. These openings are also there to allow for said Agents to ensure that Standard Operating Procedure and Space Law are being followed correctly, and to attempt to amend infringements on the field.
 
 That said, however, the access given to Internal Affairs Agents is a privilege, not a right. An Internal Affairs Agent may be, and should be, ejected from the Brig if they are actively impeding Security from doing their job in an effective and expedient manner. Remember, Internal Affairs Agents do not have any authority to demand anything. If they are acting against the best interests of the station and its safety, they may be ignored.
 
