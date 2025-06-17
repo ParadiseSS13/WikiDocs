@@ -92,16 +92,14 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 4.    While not mandatory, it is highly recommended that Scientists give a prior warning before a Toxins test. This must be done via the Common Communication Channel, with at least ten (10) seconds between the warning and detonation;
 
-5.    Scientists must, at all times, keep live slimes and Golden Extract-based lifeforms inside Xenobiology pens, except when transporting them to new cells. Peaceful Golden Extract lifeforms may be released with the express permission of the Research Director. In addition, injecting plasma into Golden Extract is strictly forbidden;
+5.    Scientists are not permitted to construct the Portable Wormhole Generator without express permission from the Research Director. In addition, Scientists are not to hand out Weapon Lockboxes to any non-Security or non-Command personnel without express permission from the Head of Security;
 
-6.    Scientists are not permitted to construct the Portable Wormhole Generator without express permission from the Research Director. In addition, Scientists are not to hand out Weapon Lockboxes to any non-Security or non-Command personnel without express permission from the Head of Security;
-
-7.    Scientists are not permitted to create AI Core Boards without express permission from the Captain and/or Research Director.
+6.    Scientists are not permitted to create AI Core Boards without express permission from the Captain and/or Research Director.
 
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1.    Guidelines 2, 4, 5, 6, and 7 carry over from Code Green;
+1.    Guidelines 2, 4, 5, and 6 carry over from Code Green;
 
 2.    Scientists are permitted to bring Grenades outside of Science, but only for delivery to the Armory;
 
@@ -110,9 +108,42 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    Guidelines 4, 5, 6, and 7 carry over from Code Green;
+1.    Guidelines 4, 5, and 6 carry over from Code Green;
 
 2.    All Guidelines carry over from Code Blue.
+
+==[[File:Generic_scientist.png|32px]][[Xenobiologist]]==
+
+=== <span style="color: darkgreen">Code Green</span> ===
+----
+
+1.     Xenobiologists are not permitted to create or carry explosives or other harmful chemical mixtures;
+
+2.     Xenobiologists must, at all times, keep live slimes and Golden Extract-based lifeforms inside Xenobiology pens, except when transporting them to new cells. Peaceful Golden Extract lifeforms may be released with the express permission of the Research Director. In addition, injecting plasma into Golden Extract is strictly forbidden;
+
+3.     Xenobiologists are permitted to provide crew with non-harmful slime cores at their discretion. For this purpose, mutation toxin and sepia cores are considered harmful. If a core provides both a helpful and harmful effect, the core must be converted into its helpful effect beforehand. If this cannot be done before handoff, the core may not be given out;
+
+4.     Xenobiologists are not permitted to provide extra-terrestrial organs to non-command crew without permission from the Research Director;
+
+5.     When departing off-station, xenobiologists must be escorted by a member of the relevant department. Miners must escort the Xenobiologist to Lavaland, and Explorers into space;
+
+6.     Xenobiologists are not permitted to equip gear from mining or explorers lockers in order to perform off-site dissection, with the exception of explorer suits;
+
+7.     Xenobiologists are not permitted to hunt fauna for the purposes of dissection, and should be left to the relevant department;
+
+8.     Xenobiologists are permitted to create two sentient creatures per shift, with more permissible with approval from the Research Director.
+
+=== <span style="color: darkblue">Code Blue</span> ===
+----
+
+1.    All Guidelines carry over from Code Green.
+
+=== <span style="color: darkred">Code Red</span> ===
+----
+
+1. All Guidelines with the exception of Guideline 1 carry over from Code Green;
+
+2. In regards to Guidelines 3 and 4, security personnel no longer require authorization of the Research Director for release.
 
 ==[[File:Geneticist.png|32px]][[Geneticist]]==
 
