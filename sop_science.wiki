@@ -141,7 +141,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. All Guidelines with the exception of guideline 1 carry over from Code Green;
+1. All Guidelines with the exception of Guideline 1 carry over from Code Green;
 
 2. In regards to guideline 3 and 4, security personnel no longer require authorization of the Research Director for release.
 
