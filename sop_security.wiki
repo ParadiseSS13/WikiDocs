@@ -27,7 +27,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In this event, Central Command is to be notified;
 
 6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
 
@@ -46,13 +46,13 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
 
-2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray.
+2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray. They are permitted and encouraged to carry their unique Energy Gun;
 
-3. The Head of Security is not permitted to wear their Safeguard MODSuit unless there's an active environmental danger or threat on their life;
+3. The Head of Security is permitted to wear their Safeguard MODSuit at all times;
 
 4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In this event, Central Command is to be notified;
 
 6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
 
@@ -66,30 +66,28 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
 
-12. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
-
 === <span style="color: darkred">Code Red</span> ===
 ----
 
 1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
 
-2. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
+2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray. They are permitted and encouraged to carry their unique Energy Gun;
 
-3. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+3. The Head of Security is permitted to wear their Safeguard MODSuit at all times;
 
-4. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
+4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-5. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
+5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In this event, Central Command is to be notified;
 
-6. The Head of Security is permitted to wear their unique gas mask;
+6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
 
-7. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
+7. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
 
-8. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+8. The Head of Security is permitted to wear their unique gas mask;
 
-9. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
+9. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
 
-10. Guideline 2 is carried over from Code Blue;
+10. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers;
 
 11. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused Code Red. The Captain may perform this duty in the place of the Head of Security.
 
@@ -136,6 +134,7 @@ For information about deadly force, trials, etc, see [[Space Law]].
 9. Security Officers may randomly search crewmembers, but are not allowed to apply any degree of force unless said crewmember acts overtly hostile. Crew who refuse to be searched may be stunned and cuffed for the search;
 
 10. Security Officers are permitted to leave prisoners bucklecuffed should they act hostile.
+
 === <span style="color: darkred">Code Red</span> ===
 ----
 
