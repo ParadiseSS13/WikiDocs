@@ -119,21 +119,19 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkgreen">Code Green</span> ===
 ----
 
-1. The Geneticist is not permitted to ignore Cloning, and must provide Clean SE Injectors when required, as well as humanized animals if required for Surgery. In addition, the Geneticist must make sure that Cloning is stocked with Biomass;
+1. The Geneticist is permitted to test Genetic Powers on themselves. However, they are not to utilize these powers on any crewmembers, nor abuse them to obtain items/personnel outside their access;
 
-2. The Geneticist is permitted to test Genetic Powers on themselves. However, they are not to utilize these powers on any crewmembers, nor abuse them to obtain items/personnel outside their access;
+2. The Geneticist is permitted to grant Genetic Powers to Command Staff at their discretion, provided prior permission is requested and granted. All staff must be warned of the full effects of the SE Injector. The Geneticist is not, however, obligated to grant powers, unless the Research Director issues a direct order;
 
-3. The Geneticist is permitted to grant Genetic Powers to Command Staff at their discretion, provided prior permission is requested and granted. All staff must be warned of the full effects of the SE Injector. The Geneticist is not, however, obligated to grant powers, unless the Research Director issues a direct order;
+3. The Geneticist is not permitted to grant Powers to non-Command Staff without express verbal consent from the Research Director. Both the Chief Medical Officer  and the Research Director maintain full authority to forcefully remove these Powers if they are abused;
 
-4. The Geneticist is not permitted to grant Powers to non-Command Staff without express verbal consent from the Research Director. Both the Chief Medical Officer  and the Research Director maintain full authority to forcefully remove these Powers if they are abused;
+4. The Geneticist must place all discarded humanized animals in the Morgue. It is recommended that said discarded humanized animals be directed to the Crematorium;
 
-5. The Geneticist must place all discarded humanized animals in the Morgue. It is recommended that said discarded humanized animals be directed to the Crematorium;
+5. The Geneticist is not permitted to provide body doubles, unless the Research Director approves it. In addition, Security is to be notified of all doubles;
 
-6. The Geneticist is not permitted to provide body doubles, unless the Research Director approves it. In addition, Security is to be notified of all doubles;
+6. The Geneticist is not permitted to alter personnel’s UI Status, unless it has been previously tampered with by hostile elements, or permission is given;
 
-7. The Geneticist is not permitted to alter personnel’s UI Status, unless it has been previously tampered with by hostile elements, or permission is given;
-
-8. The Geneticist is not permitted to use sentient humanoids as test subjects unless the sentient humanoid has granted their permission, on paper.
+7. The Geneticist is not permitted to use sentient humanoids as test subjects unless the sentient humanoid has granted their permission, on paper.
 
 === <span style="color: darkblue">Code Blue</span> ===
 ----
@@ -143,7 +141,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. All Guidelines carry over from Code Green. In regards to Guideline 4, the Geneticist is now permitted to grant Powers to Security personnel, under the same conditions as detailed in Guideline 3.
+1. All Guidelines carry over from Code Green. In regards to Guideline 4, the Geneticist is now permitted to grant Powers to Security personnel, under the same conditions as detailed in Guideline 2.
 
 ==Implants and MOD Modules==
 1. General utility implants (such as Welding Shield, Nutriment or Reviver) are unregulated, and may be handed out freely;
