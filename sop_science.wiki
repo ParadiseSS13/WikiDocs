@@ -24,7 +24,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 4.    The Research Director is permitted to carry their Reactive Teleport Armour on their person. However, it is highly recommended they keep it inactive unless necessary, for personal safety;
 
-5.    The Research Director is not permitted to authorize the construction of AI Units without the Captain’s approval. An exception is made if the station was not provided with an AI Unit, or a previous AI Unit had to be destroyed. If an AI does exist already, it's permission is required before constructing a new AI, unless it is clearly malfunctioning or subverted;
+5.    The Research Director is not permitted to authorize the construction of AI Units without the Captain’s approval. An exception is made if the station was not provided with an AI Unit, or a previous AI Unit had to be destroyed. If an AI does exist already, its permission is required before constructing a new AI, unless it is clearly malfunctioning or subverted;
 
 6.    The Research Director must keep the Communications Decryption Key on their person at all times, or at least somewhere safe and out of reach;
 
@@ -35,16 +35,16 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1.    All Guidelines carry over from Code Green.
+1.    All guidelines carry over from Code Green.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    All Guidelines except for Guideline 3 carry over from Code Green;
+1.    The Research Director is now permitted to bring harmful chemicals out of Science for delivery to Security personnel, so long as it is authroized by the Head of Security or Captain. Said chemicals must be for security purposes, i.e breaching doors, crowd control, biohazard containment, etc;
 
 2.    In addition to a telescopic baton and flash, the Research Director is permitted to carry a single weapon created in the Protolathe, provided they receive authorization from the Head of Security. Exception is made during extreme emergencies, such as Nuclear Operatives or Blob Organisms;
 
-3.    The Research Director is permitted to bring harmful chemicals outside of Science for delivery to security personnel, so long as either the Head of Security or Captain authorises it. Said chemicals must be for security-oriented purposes (thermite, controlled explosives, crowd control, biohazard containment, etc.).
+3.    All other guidelines carry over from Code Green.
 
 ==[[File:Roboticist.png|32px]][[Roboticist]]==
 
@@ -59,7 +59,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 4.    The Roboticist is not permitted to transfer personnel MMIs into Cyborgs without express written consent from the person in question. The consent form should be kept safe;
 
-5.    The Roboticist is to follow RD Green SOP #5 in constructing new AIs as well as requiring the Research Director's approval.
+5.    The Roboticist may only construct a new AI unit with the authorization of the Research Director, Captain, and extant AI units. Exception is made if the station was not provided with an AI unit, or the previous AI unit was destroyed; 
 
 6.    The Roboticist must place a Tracking Beacon on all constructed Mechs;
 
@@ -70,14 +70,14 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1.    All Guidelines carry over from Code Green.
+1.    All guidelines carry over from Code Green.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    Guidelines 2 through 8 carry over from Code Green;
+1.    The Roboticist is now permitted to construct Combat Mechs without prior approval. All Combat Mechs must be delivered to the Brig for storage upon completion. Exception is made for extreme emergencies, such as a Blob Organism or Nuclear Operatives, where the Roboticist may pilot the Mech themselves. However, even in these circumstances, the Mech must be delivered to the Armory after the emergency is over. The Research Director is placed under the same restrictions;
 
-2.    The Roboticist is now permitted to construct Combat Mechs without prior approval. All Combat Mechs must be delivered to the Brig for storage upon completion. Exception is made for extreme emergencies, such as a Blob Organism or Nuclear Operatives, where the Roboticist may pilot the Mech themselves. However, even in these circumstances, the Mech must be delivered to the Armory after the emergency is over. The Research Director is placed under the same restrictions.
+2.    All other guidelines carry over from Code Green.
 
 ==[[File:Generic_scientist.png|32px]][[Scientist]]==
 
@@ -99,18 +99,16 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1.    Guidelines 2, 4, 5, and 6 carry over from Code Green;
+1.    Scientists are now permitted to bring Grenades outside of Science, but only for delivery to the Armory;
 
-2.    Scientists are permitted to bring Grenades outside of Science, but only for delivery to the Armory;
+2.    Scientists are now permitted to bring Toxins Bombs outside of Science, but only for delivery to the Armory. The Mining exception still applies;
 
-3.    Scientists are permitted to bring Toxins Bombs outside of Science, but only for delivery to the Armory. In addition, the Mining exception still applies.
+3.    All other guidelines carry over from Code Green.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1.    Guidelines 4, 5, and 6 carry over from Code Green;
-
-2.    All Guidelines carry over from Code Blue.
+1.    All guidelines carry over from Code Blue.
 
 ==[[File:Generic_scientist.png|32px]][[Xenobiologist]]==
 
@@ -136,14 +134,16 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1.    All Guidelines carry over from Code Green.
+1.    All guidelines carry over from Code Green.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. All Guidelines with the exception of Guideline 1 carry over from Code Green;
+1. Xenobiologists are now permitted to create and carry harmful chemical mixtures;
 
-2. In regards to Guidelines 3 and 4, security personnel no longer require authorization of the Research Director for release.
+2. Slime cores and extra-terrestrial organs may now be given to Security personnel without Research Director authorization.
+
+3. All other guidelines carry over from Code green.
 
 ==[[File:Geneticist.png|32px]][[Geneticist]]==
 
@@ -167,12 +167,14 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1. All Guidelines carry over from Code Green.
+1. All guidelines carry over from Code Green.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. All Guidelines carry over from Code Green. In regards to Guideline 4, the Geneticist is now permitted to grant Powers to Security personnel, under the same conditions as detailed in Guideline 2.
+1. The Geneticist is now permitted to grant Powers to Security personnel at their discretion. The Geneticist is not, however, obligated to do so unless the Research Director gives a direct order;
+
+2. All other guidelines carry over from Code Green.
 
 ==Implants and MOD Modules==
 1. General utility implants (such as Welding Shield, Nutriment or Reviver) are unregulated, and may be handed out freely;
@@ -189,7 +191,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 7. Xeno Organs may be harvested at will, but may not be implanted without express permission from the Chief Medical Officer. Egg-Laying Organs from Xenomorph Lifeforms are strictly forbidden;
 
-8. Implants, organs, or MOD modules implanted in violations of these Guidelines may be forcibly removed at orders of the Head of Security, Research Director or Chief Medical Officer;
+8. Implants, organs, or MOD modules implanted in violations of these guidelines may be forcibly removed at orders of the Head of Security, Research Director or Chief Medical Officer;
 
 {{SOPTable}}
 [[Category:Guides for New Players]]
