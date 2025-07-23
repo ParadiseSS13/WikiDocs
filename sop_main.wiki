@@ -235,7 +235,7 @@ Along with the guidelines listed below, each and every department has it's own s
 
 * Promotion to Acting Head of Staff requires authorization by the Captain or Acting Captain;
 
-* The following jobs require permission from Central Command before hiring/transfer is done: Blueshield, NanoTrasen Representative, Internal Affairs Agent, and Magistrate. The same applies to any functionally identical job with another title;
+* The following jobs require permission from Central Command before hiring/transfer is done: Blueshield, Nanotrasen Representative, Internal Affairs Agent, and Magistrate. The same applies to any functionally identical job with another title;
 
 * All new hires to the Security Department, and Legal Sub-Department, are to be mindshield implanted and fully checked for unauthorized materials or suspicious communications.
 
@@ -302,13 +302,13 @@ Along with the guidelines listed below, each and every department has it's own s
 
 * Emergency Response Teams are not to be called without majority approval from Command;
 
-* Emergency Response Teams officially outrank anyone short of a Central Command Officer. Unless their actions are blatantly illegal and against the best interest of NanoTrasen, the station and its crew, their orders are to be followed above anyone else's.
+* Emergency Response Teams officially outrank anyone short of a Central Command Officer. Unless their actions are blatantly illegal and against the best interest of Nanotrasen, the station and its crew, their orders are to be followed above anyone else's.
 
 ===Emergency Response Team Procedures===
 
 * The Emergency Response Team Leader is to ensure that all members of the Team are present before boarding the Station;
 
-* The Emergency Response Team Leader is to be considered the top authority inside the Emergency Response Team. Unless their orders are blatantly illegal and against the best interest of NanoTrasen, the station and its crew, they are to be followed above anyone else's;
+* The Emergency Response Team Leader is to be considered the top authority inside the Emergency Response Team. Unless their orders are blatantly illegal and against the best interest of Nanotrasen, the station and its crew, they are to be followed above anyone else's;
 
 * All members of the Emergency Response Team are to activate their helmet cameras (by clicking the button next to their helmet) and maintain open lines of communication between them;
 
