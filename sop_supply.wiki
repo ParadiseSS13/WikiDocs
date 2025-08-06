@@ -34,7 +34,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 2. Cargo Technicians are bound to the same rules as the Quartermaster regarding restricted crates (see above);
     
-3. Cargo Technicians are not permitted to order items for sole personal use with the supply department account without express consent from the Quartermaster. Exception is made if there are more than 2500 space credits available and no outstanding orders. Cargo Technicians may not deplete the entire department account balance for this;
+3. Cargo Technicians are not permitted to order items for sole personal use with the supply department account without express consent from the Quartermaster. Exception is made if there are more than 2500 credits available and no outstanding orders. Cargo Technicians may not deplete the entire department account balance for this;
     
 4. Cargo Technicians are not permitted to order non-essential items using the supply account (such as cats, or clothing) without express consent from the Quartermaster;
     
@@ -48,7 +48,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
     
 9. Cargo Technicians should ensure that a single Department does not fully drain the Ore Redemption Machine, as it can be utilized by multiple Departments;
     
-10. Cargo Technicians are not permitted to ask for space credits in exchange for legal cargo crate orders or autolathe requests from crew members;
+10. Cargo Technicians are not permitted to ask for credits in exchange for legal cargo crate orders or autolathe requests from crew members;
 
 11. Cargo Technicians are not permitted to hack the MULE Delivery Bots so that they may ride them, or that they may go faster;
     
