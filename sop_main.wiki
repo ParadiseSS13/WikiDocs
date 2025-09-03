@@ -267,10 +267,6 @@ Along with the guidelines listed below, each and every department has it's own s
 ===Vote of No Confidence===
 {{Hatnote|A Vote of No Confidence is a method for crew to arrange for demotions of unfit command members. It must have a justified reason, detailed below, against the Head of Staff or Captain in question.}}
 
-* Votes have to be verified by a 3rd party who will tally the votes and verify the validity of the reason for it. The 3rd party must be the on-station Captain (unless they are the target of the vote), NT Representative, Magistrate or Centcomm if none of the previous are capable of acting as such. 
-
-* If the 3rd party dismisses the vote reason, the target of the vote must have their authority respected and not be further harassed about it, doing so may result in a demotion for creating an abusive work environment against them. If the department is understaffed or a tie occurs, the 3rd party may participate the vote.
-
 * Votes by departamental crew against their Head of Staff must pass with a 2/3 majority in favor of the vote for it to take effect.
 
 * Votes by Heads of Staff against their Captain must pass a simple majority in favor of the vote for it to take effect.
@@ -279,7 +275,7 @@ Along with the guidelines listed below, each and every department has it's own s
 
 * Unjustified reasons for a vote include but are not limited to; Personal gripes, reasonable and legal disciplining or firing of their staff and denial of permission, among others. 
 
-* If someone is to be demoted by a vote, Centcomm is to be informed afterwards via fax the details, vote count, reasons alongside other relevant information of the demotion. 
+* If a Captain has been demoted by a vote, Centcomm is to be informed afterwards via fax the details, vote count, reasons alongside other relevant information of the demotion. 
 
 }}
 
