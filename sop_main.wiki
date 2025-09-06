@@ -12,7 +12,7 @@ Please edit on there.
 
 Nanotrasen has a standard set of procedures for crew personnel to follow when there is (or isn't) an emergency. This is to assure that all actions are in the best interests of Nanotrasen. Failure to follow these may result in dismissal/demotion. Extreme or repeated cases may result in a jobban.
 
-'''NOTE:''' Any mentions of "The Station" or "Station" in SOP unless otherwise specified is in reference to the reader's (employee's) assigned Nanotrasen Science Station or Area of Operations. The following (but not limited to) research stations are assigned these SOP documents: NSS Keberos, NSS Cereberon, NSS Cyberiad, NSS Farragus, and NSS Diagoras
+'''NOTE:''' Any mentions of "The Station" or "Station" in SOP unless otherwise specified is in reference to the reader's (employee's) assigned Nanotrasen Science Station or Area of Operations. The following (but not limited to) research stations are assigned these SOP documents: NSS Kerberos, NSS Cerebron, NSS Cyberiad, NSS Farragus, and NSS Diagoras.
 
 ==Departmental SOP [[File:Folder.png|32px]]==
 
@@ -46,14 +46,14 @@ Along with the guidelines listed below, each and every department has it's own s
 
 * All weapons must be holstered or kept in pockets/suit storage slots unless absolutely required;
 
-* Random searches are not permitted without express permission by either the Head of Security, Captain or Magistrate. However, searches are still permitted if there is reasonable suspicion of a crime
+* Random searches are not permitted without express permission by either the Head of Security, Captain or Magistrate. However, searches are still permitted if there is reasonable suspicion of a crime.
 
 '''Secure Areas:'''
 {{Hatnote|EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Teleporter, Vault, anywhere else requiring command level access that does not get regularly used}}
 
 * Secure areas such as the teleporter and EVA are to be left unbolted and ready to be used for their intended purposes. Exceptions are below;
 
-* The Vault is not to be opened unless repairs are required, gold is required for Research and Development (in case Mining fails to deliver) or a critical item needs to be hidden in the safe
+* The Vault is not to be opened unless repairs are required, gold is required for Research and Development (in case Mining fails to deliver) or a critical item needs to be hidden in the safe.
 
 '''General Crew:'''
 
