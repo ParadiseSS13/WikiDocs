@@ -16,7 +16,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 1. The Chief Medical Officer is permitted to carry a regular Defibrillator or a Compact Defibrillator on their person at all times;
 
-2. The Chief Medical Officer is permitted to carry a telescopic baton and a flash. In case Genetic Powers need to be forcefully removed, they are cleared to carry a Syringe Gun;
+2. The Chief Medical Officer is permitted to carry a telescopic baton and a flash. In case Genetic Powers need to be forcefully removed because a genetically-altered individual is a danger to themselves or others, they are cleared to carry a Syringe Gun;
 
 3. The Chief Medical Officer is not permitted to allow the creation of poisonous or explosive mixtures in Chemistry without express consent from the Captain or, failing that, the presence of a clear and urgent danger to the integrity of the station, except of course in situations where Chemical Implants are required;
 
@@ -38,7 +38,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 6. Medical Doctors must place all corpses inside body bags. If there is an assigned Coroner, the Morgue Trays must be correctly tagged;
 
-7. Medical Doctors must work together with Geneticists and Chemists to make sure that Cloning is stocked with Biomass, Osseous Reagent and Sanguine Reagent. In addition, Medical Doctors must make sure that the Morgue does not contain cloneable corpses;
+7. Medical Doctors must work together with Chemists to make sure that Cloning is stocked with Biomass, Osseous Reagent and Sanguine Reagent. In addition, Medical Doctors must make sure that the Morgue does not contain cloneable corpses;
 
 8. Medical Doctors must certify that all cloned personnel are free from clone damage; if not, they are to be put into a Cryotube. In addition, Medical Doctors must ensure cloned personnel are fully healed and any damage or missing organs are fixed before being released;
 
@@ -58,7 +58,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 4. The Chemist is not permitted to produce alcoholic beverages;
 
-5. Chemists in conjuction with Medical Doctors and/or Geneticists must make sure that Cloning is stocked with Biomass, Osseous Reagent and Sanguine Reagent;
+5. Chemists in conjuction with Medical Doctors must make sure that Cloning is stocked with Biomass, Osseous Reagent and Sanguine Reagent;
 
 6. The Chemist must ensure that the Medical Fridge is stocked with at least enough medication to handle Brute, Burn, Respiratory, Toxic and Brain damage. Failure to follow this Guideline or attempting to follow this Guideline within thirty (30) minutes is to be considered a breach of Standard Operating Procedure;
 
