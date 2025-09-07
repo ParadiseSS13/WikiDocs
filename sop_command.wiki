@@ -82,7 +82,19 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
     
 2. No Law Changes are to be performed without approval from the Captain and Research Director. The only Lawsets to be used are those provided by Nanotrasen. Failure to legally perform a Law Change is to be considered Sabotage. Command must be informed prior to the Law Change, and all objections must be taken into consideration. If the number of Command personnel opposing the Law Change is greater than the number of Command personnel in favour, the Law Change is not to be done. If the Law Change is performed, the crew is to be immediately informed of the new Law(s);
     
-3. The AI may not be Carded unless it is clearly malfunctioning or subverted. This does not include external circumstances, such as massive damage to the AI Satellite, or if the AI agrees to be Carded by any member of Command;
+3. The AI may only be Carded under the following circumstances:
+
+: 3.1 The AI is clearly malfunctioning;
+
+: 3.2 The AI has been subverted and resetting is not sufficient;
+
+: 3.3 The integrity or security of the AI is threatened, for example due to severe damage to the AI satelite;
+
+: 3.4 The AI's integrity needs to be restored;
+
+: 3.5 The AI requests to be carded;
+
+4. The AI should only be carded by members of Command;
     
 4. The AI Upload and Minisat Antechamber Turrets are to be kept on Non-Lethal in Code Green and Code Blue. The AI Core Turrets are to be kept on Lethal at all times. If a legal Law Change or Carding is occurring, the Turrets are to be disabled;
     
