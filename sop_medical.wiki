@@ -114,7 +114,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 2. Attending Surgeon is to keep the Operating Room in an hygienic condition at all times to prevent infection;
 
-3. Attending Surgeon is to wash his/her hands between different patients to prevent infections;
+3. Attending Surgeon is to wash their hands between different patients to prevent infections;
 
 4. Attending Surgeon is to use either Anesthetics or Sedatives (for species that cannot breathe Anesthetics) during Surgical Procedures. Exception is made if the patient requests otherwise;
 
