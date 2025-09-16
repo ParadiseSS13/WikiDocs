@@ -290,5 +290,15 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 11. The Detective is permitted to carry around any weapons or equipment available in the Armory, at the Warden's discretion, but never more than one at a time. Exception is made for severe emergencies, such as Blob Organisms or Nuclear Operatives; 
 
+==Hostage Situations==
+
+1. The Captain is responsible for handling the hostage situation. If the Captain is unavailable, the responsibility falls on the Head of Security; 
+
+2. The Captain may delegate part or all of their authority related to the hostage situation to a designated negotiator. If the Captain is unavailable, the Head of Security should designate a negotiator;
+
+3. Negotiation with the hostage taker should be attempted, unless is it clear that there is no benefit from doing so;
+
+4. The risk to the hostage and other innocent personnel should be minimized. Failure to do so may lead to criminal charges, including Manslaughter.
+
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
