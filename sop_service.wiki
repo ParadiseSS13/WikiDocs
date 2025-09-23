@@ -126,9 +126,11 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 ==[[File:Librarian.png|32px]][[Librarian]]==
 
-1. The Librarian is to keep at least one (1) shelf stocked with books for the station's personnel;
+1. The Librarian is to keep the shelves of their library stocked with books for the station's personnel;
+
+2. The Librarian must respond to any call from the crew for them to provide books or assistance in checking out books. Failure to respond within five (5) minutes is to be considered a breach of Standard Operating Procedure;
     
-2. The Librarian is permitted to conduct journalism on any part of the station. However, they are not entitled to participation in trials, and must receive authorization from the Head of Security or Magistrate.
+3. The Librarian is permitted to conduct journalism on any part of the station. However, they are not entitled to participation in trials, and must receive authorization from the Head of Security or Magistrate.
 
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
