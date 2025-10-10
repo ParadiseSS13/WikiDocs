@@ -70,7 +70,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 2. The Virologist must only test viral samples on the provided Test Animals. Said Test Animals are to be maintained inside their pen, and disposed of via Virology's Disposals Chutes if dead, to prevent possible contamination. In addition, the Virologist is not permitted to leave Virology while infected by a Viral Pathogen that spreads by Contact or Airborne means, unless permitted by the Chief Medical Officer;
 
-3. The Virologist may not release an active virus without prior consent from Chief Medical Officer. Contact and/or Airborne viruses may only be released with consent from the Chief Medical officer '''and''' Captain. In the event a Contact and/or Airborne virus is released, the crew '''must be informed''', and Vaccines should be ready for any personnel that choose to opt out of being infected;
+3. The Virologist may not release an active virus without prior consent from Chief Medical Officer. Contact and/or Airborne viruses may only be released with consent from the Chief Medical Officer '''and''' Captain. In the event a Contact and/or Airborne virus is released, the crew '''must be informed''', and Vaccines should be ready for any personnel that choose to opt out of being infected;
 
 4. The Virologist must ensure that all Viral Samples are kept on their person at all times, or at the very least in a secure location (such as the Virology Fridge);
 
