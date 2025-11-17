@@ -27,19 +27,15 @@ For information about deadly force, trials, etc, see [[Space Law]].
 
 4. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray. While permitted to carry their unique Energy Gun, they are discouraged from doing so for safety concerns, and should keep it on Disable;
 
-5. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
+5. The Head of Security is not permitted to wear their Safeguard MODSuit unless there's an active environmental danger or threat on their life;
 
-6. The Head of Security is permitted to wear their unique gas mask;
+6. The Head of Security is not permitted to collect equipment from the Armory to carry on their person;
 
-7. The Head of Security is not permitted to wear their Safeguard MODSuit unless there's an active environmental danger or threat on their life;
+7. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-8. The Head of Security is not permitted to collect equipment from the Armory to carry on their person;
+8. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
 
-9. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
-
-10. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
-
-11. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape.
+9. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape.
 
 === <span style="color: darkblue">Code Blue</span> ===
 ----
