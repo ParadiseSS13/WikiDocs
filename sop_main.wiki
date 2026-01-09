@@ -271,11 +271,17 @@ Along with the guidelines listed below, each and every department has it's own s
 
 * Votes by Heads of Staff against their Captain must pass a simple majority in favor of the vote for it to take effect.
 
-* Justified reasons for a vote include but are not limited to; 'Causes for Demotion and Dismissal' breaches, Absenteeism, critical lack of communication, abuse of authority and incompetence, among others.
+* Justified reasons for a vote include but are not limited to; 'Causes for Demotion and Dismissal' breaches, absenteeism, critical lack of communication, abuse of authority and incompetence, among others.
 
 * Unjustified reasons for a vote include but are not limited to; Personal gripes, reasonable and legal disciplining or firing of their staff and denial of permission, among others. 
 
-* If a Captain has been demoted by a vote, Centcomm is to be informed afterwards via fax the details, vote count, reasons alongside other relevant information of the demotion. 
+* Any of the involved crew members may request a third party to tally the votes, verify the validity of the vote's justification and oversee the demotion or transfer of power.
+
+* In case of a vote by departamental crew against their Head of Staff, the first member of the following list who is available will be the neutral party: A member of Central Command, the Captain, the Nanotrasen Representative, the Magistrate, any uninvolved Head of Staff, any Internal Affairs Agent, any Security Officer, any uninvolved crew member.
+
+* In case of a vote by Heads of Staff against their Captain, the first member of the following list who is available will be the neutral party: A member of Central Command, the Nanotrasen Representative, the Magistrate, any Internal Affairs Agent, any Security Officer, any uninvolved crew member.
+
+* If a Captain has been demoted by a vote or a third party rejected the outcome of a vote, Central Command is to be informed via fax of the vote count and reasons, alongside other relevant information of the demotion.
 
 }}
 
