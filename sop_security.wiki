@@ -19,79 +19,37 @@ For information about deadly force, trials, etc, see [[Space Law]].
 === <span style="color: darkgreen">Code Green</span> ===
 ----
 
-1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
+1. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers;
 
-2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray. While permitted to carry their unique Energy Gun, they are discouraged from doing so for safety concerns, and should keep it on Stun/Disable;
+2. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
 
-3. The Head of Security is not permitted to wear their Safeguard MODSuit unless there's an active environmental danger or threat on their life;
+3. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
 
-4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
+4. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray. While permitted to carry their unique Energy Gun, they are discouraged from doing so for safety concerns, and should keep it on Disable;
 
-5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
+5. The Head of Security is not permitted to wear their Safeguard MODSuit unless there's an active environmental danger or threat on their life;
 
-6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
+6. The Head of Security is not permitted to collect equipment from the Armory to carry on their person;
 
-7. The Head of Security is not permitted to collect equipment from the Armory to carry on their person;
+7. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
-8. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
+8. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
 
-9. The Head of Security is permitted to wear their unique gas mask;
-
-10. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
-
-11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+9. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape.
 
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
-
-2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, a standard energy gun, and a can of pepperspray.
-
-3. The Head of Security is not permitted to wear their Safeguard MODSuit unless there's an active environmental danger or threat on their life;
-
-4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
-
-5. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
-
-6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
-
-7. The Head of Security is not permitted to collect equipment from the Armory to carry on their person;
-
-8. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
-
-9. The Head of Security is permitted to wear their unique gas mask;
-
-10. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
-
-11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
-
-12. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
+1. All guidelines carry over from Code Green.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers;
+1. All guidelines carry over from Code Green except Guideline 7.
 
-2. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
+2. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
 
-3. The Head of Security may not overrule a Magistrate, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well;
-
-4. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers;
-
-5. The Head of Security is permitted to either use their regular coat, or armored trenchcoat;
-
-6. The Head of Security is permitted to wear their unique gas mask;
-
-7. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape;
-
-8. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
-
-9. The Head of Security is permitted to wear their Safeguard MODSuit at all times.
-
-10. Guideline 2 is carried over from Code Blue;
-
-11. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused Code Red. The Captain may perform this duty in the place of the Head of Security.
+3. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused Code Red. The Captain may perform this duty in the place of the Head of Security.
 
 ==[[File:Generic_security.png|32px]][[Security Officer]]==
 
