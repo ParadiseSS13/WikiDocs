@@ -162,67 +162,45 @@ For information about deadly force, trials, etc, see [[Space Law]].
 === <span style="color: darkgreen">Code Green</span> ===
 ----
 
-1. The Warden may not perform arrests if there are Security Officers active;
+1. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
 
-2. The Warden must conduct a thorough search of every prisoner’s belongings, including pockets, PDA slots, any coat pockets and suit storage slots;
+2. The Warden may not perform arrests if there are Security Officers active;
 
-3. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
+3. The Warden must conduct a thorough search of every prisoner’s belongings, including pockets, PDA slots, any coat pockets and suit storage slots;
 
-4. The Warden may not hand out any weapons or armour from the Armory, except for extra disablers. Modsuits may be issued if emergency E.V.A action is required. Exception is made if there is an immediate threat that requires attention, such as Nuclear Operatives, or rioters;
+4. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
 
 5. The Warden is permitted to carry a standard disabler, a flash, a stunbaton, a flashbang and a can of pepperspray;
 
-6. The Warden may not place the portable flashers within the Brig;
+6. The Warden must read to every prisoner the crimes they are sentenced to;
 
-7. The Warden may not place the deployable barriers within the Brig;
+7. The Warden may not hand out any weapons or armour from the Armory, except for extra disablers. Modsuits may be issued if emergency E.V.A action is required. Exception is made if there is an immediate threat that requires attention, such as Nuclear Operatives, or rioters;
 
-8. The Warden must read to every prisoner the crimes they are sentenced to;
+8. The Warden may not place the portable flashers within the Brig;
 
-9. The Warden is not permitted to leave prisoners bucklecuffed to their beds. An exception is made if the prisoners acts overtly hostile or attempts to breach the cell in order to escape;
+9. The Warden may not place the deployable barriers within the Brig;
 
-10. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+10. The Warden is not permitted to leave prisoners bucklecuffed to their beds. An exception is made if the prisoners acts overtly hostile or attempts to breach the cell in order to escape;
 
 === <span style="color: darkblue">Code Blue</span> ===
 ----
 
-1. The Warden may not perform arrests if there are Security Officers active;
+1. Guidelines 1 to 6 carry over from Code Green;
 
-2. The Warden must conduct a thorough search of every prisoner’s belongings, including pockets, PDA slots, any coat pockets and suit storage slots;
+2. The Warden is permitted to hand out all equipment from the Armory. Energy and Laser guns are only to be handed out with Head of Security or Captain's approval, as they present a lethal risk, or if there is an immediate threat, such as Blob Organisms or Nuclear Operatives;
 
-3. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
+3. The Warden is permitted to place the portable flashers inside the Brig;
 
-4. The Warden is permitted to carry a standard disabler, a flash, a stunbaton, a flashbang and a can of pepperspray;
-
-5. The Warden must read to every prisoner the crimes they are sentenced to;
-
-6. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
-
-7. The Warden is permitted to hand out all equipment from the Armory. Energy and Laser guns are only to be handed out with Head of Security or Captain's approval, as they present a lethal risk, or if there is an immediate threat, such as Blob Organisms or Nuclear Operatives;
-
-8. The Warden is permitted to place the portable flashers inside the Brig;
-
-9. The Warden is permitted to place the deployable barriers inside the Brig.
+4. The Warden is permitted to place the deployable barriers inside the Brig.
 
 === <span style="color: darkred">Code Red</span> ===
 ----
 
-1. The Warden must conduct a thorough search of every prisoner’s belongings, including pockets, PDA slots, any coat pockets and suit storage slots;
+1. All Guidelines carry over from Code Blue. Guideline 2 from Code Green no longer applies;
 
-2. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes;
+2. The Warden is permitted to distribute any weapon or piece of equipment in the Armory. This includes whatever Research has provided;
 
-3. The Warden is permitted to place the portable flashers inside the Brig;
-
-4. The Warden is permitted to carry a standard disabler, a flash, a stunbaton, a flashbang and a can of pepperspray;
-
-5. The Warden must read to every prisoner the crimes they are sentenced to;
-
-6. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
-
-7. The Warden is permitted to place the deployable barriers inside the Brig.
-
-8. The Warden is permitted to distribute any weapon or piece of equipment in the Armory. This includes whatever Research has provided;
-
-9. The Warden is permitted to carry out arrests freely.
+3. The Warden is permitted to carry out arrests freely.
 
 ==[[File:Generic_detective.png|32px]][[Detective]]==
 
