@@ -82,15 +82,27 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
     
 2. No Law Changes are to be performed without approval from the Captain and Research Director. The only Lawsets to be used are those provided by Nanotrasen. Failure to legally perform a Law Change is to be considered Sabotage. Command must be informed prior to the Law Change, and all objections must be taken into consideration. If the number of Command personnel opposing the Law Change is greater than the number of Command personnel in favour, the Law Change is not to be done. If the Law Change is performed, the crew is to be immediately informed of the new Law(s);
     
-3. The AI may not be Carded unless it is clearly malfunctioning or subverted. However, any member of Command may card it if the AI agrees to it, either at the end of the shift, or due to external circumstances (such as massive damage to the AI Satellite);
+3. The AI may only be Carded under the following circumstances:
+
+: 3.1 The AI is clearly malfunctioning;
+
+: 3.2 The AI has been subverted and resetting is not sufficient;
+
+: 3.3 The integrity or security of the AI is threatened, for example due to severe damage to the AI satelite;
+
+: 3.4 The AI's integrity needs to be restored;
+
+: 3.5 The AI requests to be carded;
+
+4. The AI should only be carded by members of Command;
     
-4. The AI Upload and Minisat Antechamber Turrets are to be kept on Non-Lethal in Code Green and Code Blue. The AI Core Turrets are to be kept on Lethal at all times. If a legal Law Change or Carding is occurring, the Turrets are to be disabled;
+5. The AI Upload and Minisat Antechamber Turrets are to be kept on Non-Lethal in Code Green and Code Blue. The AI Core Turrets are to be kept on Lethal at all times. If a legal Law Change or Carding is occurring, the Turrets are to be disabled;
     
-5. If the AI Unit is not malfunctioning or subverted, any attempt at performing an illegal Carding or Law Change is to be responded to with non-lethal force. If the illegal attempts persist, and the perpetrator is demonstrably hostile, lethal force from Command/Security is permitted;
+6. If the AI Unit is not malfunctioning or subverted, any attempt at performing an illegal Carding or Law Change is to be responded to with non-lethal force. If the illegal attempts persist, and the perpetrator is demonstrably hostile, lethal force from Command/Security is permitted;
     
-6. Freeform Laws are only to be added if absolutely necessary due to external circumstances (such as major station emergencies). Adding unnecessary Freeform Laws is not permitted. Exception is made if the AI Unit and majority of Command agree to the Freeform Law that is proposed;
+7. Freeform Laws are only to be added if absolutely necessary due to external circumstances (such as major station emergencies). Adding unnecessary Freeform Laws is not permitted. Exception is made if the AI Unit and majority of Command agree to the Freeform Law that is proposed;
     
-7. Any use of the "Purge" Module is to be followed by the upload of a Nanotrasen-approved Lawset immediately. AI Units must be bound to a Lawset at all times.
+8. Any use of the "Purge" Module is to be followed by the upload of a Nanotrasen-approved Lawset immediately. AI Units must be bound to a Lawset at all times.
 
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
