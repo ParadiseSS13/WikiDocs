@@ -96,13 +96,13 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 4. The AI should only be carded by members of Command;
     
-4. The AI Upload and Minisat Antechamber Turrets are to be kept on Non-Lethal in Code Green and Code Blue. The AI Core Turrets are to be kept on Lethal at all times. If a legal Law Change or Carding is occurring, the Turrets are to be disabled;
+5. The AI Upload and Minisat Antechamber Turrets are to be kept on Non-Lethal in Code Green and Code Blue. The AI Core Turrets are to be kept on Lethal at all times. If a legal Law Change or Carding is occurring, the Turrets are to be disabled;
     
-5. If the AI Unit is not malfunctioning or subverted, any attempt at performing an illegal Carding or Law Change is to be responded to with non-lethal force. If the illegal attempts persist, and the perpetrator is demonstrably hostile, lethal force from Command/Security is permitted;
+6. If the AI Unit is not malfunctioning or subverted, any attempt at performing an illegal Carding or Law Change is to be responded to with non-lethal force. If the illegal attempts persist, and the perpetrator is demonstrably hostile, lethal force from Command/Security is permitted;
     
-6. Freeform Laws are only to be added if absolutely necessary due to external circumstances (such as major station emergencies). Adding unnecessary Freeform Laws is not permitted. Exception is made if the AI Unit and majority of Command agree to the Freeform Law that is proposed;
+7. Freeform Laws are only to be added if absolutely necessary due to external circumstances (such as major station emergencies). Adding unnecessary Freeform Laws is not permitted. Exception is made if the AI Unit and majority of Command agree to the Freeform Law that is proposed;
     
-7. Any use of the "Purge" Module is to be followed by the upload of a Nanotrasen-approved Lawset immediately. AI Units must be bound to a Lawset at all times.
+8. Any use of the "Purge" Module is to be followed by the upload of a Nanotrasen-approved Lawset immediately. AI Units must be bound to a Lawset at all times.
 
 {{SOPTable}}
 [[Category:Standard Operating Procedure]]
