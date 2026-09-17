@@ -26,7 +26,9 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
     
 6. The Quartermaster is not permitted to authorize a Supermatter Crate without express permission from the Chief Engineer;
 
-7. The Quartermaster is required to follow the guidelines put in place for Cargo Technicians.
+7. The Quartermaster is permitted to carry a telescopic baton, a miniature energy gun, and a flash for self-defence.
+
+8. The Quartermaster is required to follow the guidelines put in place for Cargo Technicians.
 
 ==[[File:Generic_cargo.png|32px]][[Cargo Technician]]==
 

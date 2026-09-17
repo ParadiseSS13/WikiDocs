@@ -18,7 +18,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 1.    The Research Director must make sure Research is being done. Research must be completed by the end of the shift, assuming Science is provided the materials for it by Supply;
 
-2.    The Research Director is permitted to carry a telescopic baton and a flash;
+2.    The Research Director is permitted to carry a telescopic baton, a miniature energy gun, and a flash for self-defence;
 
 3.    The Research Director is not permitted to bring harmful chemicals outside of Science;
 
@@ -42,7 +42,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 1.    All Guidelines except for Guideline 3 carry over from Code Green;
 
-2.    In addition to a telescopic baton and flash, the Research Director is permitted to carry a single weapon created in the Protolathe, provided they receive authorization from the Head of Security. Exception is made during extreme emergencies, such as Nuclear Operatives or Blob Organisms;
+2.    In addition to a telescopic baton, a miniature energy gun, and a flash, the Research Director is permitted to carry a single weapon created in the Protolathe, provided they receive authorization from the Head of Security. Exception is made during extreme emergencies, such as Nuclear Operatives or Blob Organisms;
 
 3.    The Research Director is permitted to bring harmful chemicals outside of Science for delivery to security personnel, so long as either the Head of Security or Captain authorises it. Said chemicals must be for security-oriented purposes (thermite, controlled explosives, crowd control, biohazard containment, etc.).
 
