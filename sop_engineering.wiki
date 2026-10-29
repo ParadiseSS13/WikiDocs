@@ -45,24 +45,24 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 5. Engineers must constantly monitor The Singulairy Engine, if it present and online;
 
-6. Engineers must maintain the integrity of the Station's Power Network and ensure no transmission cables have been damaged (e.g. from mice).
+6. Engineers must maintain the integrity of the Station's Power Network and ensure no transmission cables have been damaged (e.g. from mice);
 
 7. Engineers must respond promptly to breaches, regardless of size. Failure to report within fifteen (15) minutes will be considered a breach of Standard Operating Procedure, unless there are no spare Engineers to report or an Atmospheric Technician has arrived on scene first. All Hazard Zones must be cordoned off with Engineering Tape or holobarriers, for the sake of everyone else;
 
-8. Engineers must ensure there is at least one (1) engineering MODsuit available on the station at all times, unless there is an emergency that requires the use of all suits.
+8. Engineers must ensure there is at least one (1) engineering MODsuit available on the station at all times, unless there is an emergency that requires the use of all suits;
 
 9. Engineers are permitted to hack doors to gain unauthorized access to locations if said locations happen to require urgent repairs;
 
-10. Engineers are permitted to carry out solo reconstruction/rebuilding/personal projects if there is no damage to the station that requires fixing;
+10. Engineers are permitted to carry out solo reconstruction/rebuilding/personal projects if there is no damage to the station that requires fixing.
 
 
 ==[[File:Generic_atmos.png|32px]][[Atmospheric Technician]]==
 
 1. If no Engineers are present, Atmospheric Technicians must follow Engineer Guidelines 1 to 6;
 
-1. Atmospheric Technicians properly set up the Atmospherics System at the start of the shift, before any other actions are undertaken;
+2. Atmospheric Technicians properly set up the Atmospherics System at the start of the shift, before any other actions are undertaken;
 
-3. Atmospheric Technicians must respond promptly to damaged piping and station breaches, regardless of size. Failure to report within fifteen (15) minutes will be considered a breach of Standard Operating Procedure, unless there are no spare Atmospheric Technicians to report, or an Engineer has arrived on scene first. All Hazard Zones must be cordoned off with Engineering Tape or holobarriers, for the sake of everyone else.
+3. Atmospheric Technicians must respond promptly to damaged piping and station breaches, regardless of size. Failure to report within fifteen (15) minutes will be considered a breach of Standard Operating Procedure, unless there are no spare Atmospheric Technicians to report, or an Engineer has arrived on scene first. All Hazard Zones must be cordoned off with Engineering Tape or holobarriers, for the sake of everyone else;
 
 4. Atmospheric Technicians must periodically check on the Central Alarms Computer, in periods of, at most, thirty (30) minutes;
 
@@ -76,7 +76,7 @@ For a list of regular SOP, or for other departments, see the main page for [[Sta
 
 9. Atmospheric Technicians are permitted to cool Plasma and store it for later use in Radiation Collectors. Likewise, they are permitted to cool Nitrogen or Carbon Dioxide and store it for use as coolant for the Engine;
 
-10. Atmospheric Technicians are permitted to carry out solo reconstruction/rebuilding/personal projects if there is no damage to the station that requires fixing;
+10. Atmospheric Technicians are permitted to carry out solo reconstruction/rebuilding/personal projects if there is no damage to the station that requires fixing.
 
 
 {{SOPTable}}
